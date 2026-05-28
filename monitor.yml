@@ -1,0 +1,55 @@
+name: Solicitor Monitor
+
+on:
+  schedule:
+    - cron: '0 7 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Restore state file from cache
+        uses: actions/cache@v4
+        with:
+          path: state.json
+          key: solicitor-state-${{ github.run_id }}
+          restore-keys: |
+            solicitor-state-
+
+      - name: Run monitor
+        env:
+          CH_API_KEY:          ${{ secrets.CH_API_KEY }}
+          SRA_API_KEY:         ${{ secrets.SRA_API_KEY }}
+          EMAIL_FROM:          ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO:            ${{ secrets.EMAIL_TO }}
+          GRAPH_TENANT_ID:     ${{ secrets.GRAPH_TENANT_ID }}
+          GRAPH_CLIENT_ID:     ${{ secrets.GRAPH_CLIENT_ID }}
+          GRAPH_CLIENT_SECRET: ${{ secrets.GRAPH_CLIENT_SECRET }}
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+        run: python monitor.py
+
+      - name: Save updated files back to repo
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update: discovered SRA/CH numbers [skip ci]"
+          file_pattern: solicitors.json state.json
+          commit_user_name: "Solicitor Monitor Bot"
+          commit_user_email: "monitor-bot@noreply.github.com"
