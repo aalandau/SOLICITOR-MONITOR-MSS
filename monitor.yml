@@ -1,4 +1,4 @@
-name: Solicitor Monitor
+name: Solicitor Monitor MSS
 
 on:
   schedule:
