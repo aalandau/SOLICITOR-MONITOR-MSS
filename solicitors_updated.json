@@ -1,0 +1,545 @@
+[
+  {
+    "name": "3K Law Ltd",
+    "sra_number": "643316",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2017-11-10T00:00:00"
+  },
+  {
+    "name": "AR Solicitors",
+    "sra_number": "370551",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECSOLE",
+    "sra_authorisation_date": "2015-11-01T00:00:00"
+  },
+  {
+    "name": "Abraham Baron Solicitors Ltd",
+    "sra_number": "625623",
+    "sra_status": "YES",
+    "sra_authorisation_type": "LICBODY",
+    "sra_authorisation_date": "2024-11-01T00:00:00",
+    "companies_house_number": "09733022"
+  },
+  {
+    "name": "Alfred James & Co Solicitors LLP",
+    "sra_number": "473566",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00",
+    "companies_house_number": "OC325753"
+  },
+  {
+    "name": "Allan James Solicitors"
+  },
+  {
+    "name": "Allied Law Chambers",
+    "sra_number": "638698",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2017-06-07T00:00:00"
+  },
+  {
+    "name": "Allweis and Co Solicitors",
+    "sra_number": "8004797",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2023-11-09T00:00:00",
+    "companies_house_number": "14891038"
+  },
+  {
+    "name": "Aqua Law Solicitors",
+    "sra_number": "651068",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2018-08-14T00:00:00"
+  },
+  {
+    "name": "Arch Law Limited",
+    "sra_number": "814391",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2021-02-12T00:00:00",
+    "companies_house_number": "12779240"
+  },
+  {
+    "name": "Arma Law",
+    "sra_number": "556777",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00"
+  },
+  {
+    "name": "Armstrong James LLP"
+  },
+  {
+    "name": "Banks Kelly Solicitors",
+    "sra_number": "539814",
+    "sra_status": "YES",
+    "sra_authorisation_type": "LICBODY",
+    "sra_authorisation_date": "2024-11-08T00:00:00",
+    "companies_house_number": "4988771"
+  },
+  {
+    "name": "Belmont Solicitors",
+    "sra_number": "8007699",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2024-07-01T00:00:00",
+    "companies_house_number": "15436987"
+  },
+  {
+    "name": "Benjamin Solicitors t/a Integrity Law"
+  },
+  {
+    "name": "Bentley Sterling & Co Solicitors",
+    "sra_number": "638896",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2017-06-23T00:00:00",
+    "companies_house_number": "10719995"
+  },
+  {
+    "name": "Beyond Legal",
+    "sra_number": "514840",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00",
+    "companies_house_number": "OC346238"
+  },
+  {
+    "name": "CBJL Limited"
+  },
+  {
+    "name": "Carpenters Solicitors",
+    "sra_number": "625845",
+    "sra_status": "YES",
+    "sra_authorisation_type": "LICBODY",
+    "sra_authorisation_date": "2015-11-02T00:00:00",
+    "companies_house_number": "06532413"
+  },
+  {
+    "name": "Clarkson Wright & Jakes LLP",
+    "sra_number": "558946",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00",
+    "companies_house_number": "7529406"
+  },
+  {
+    "name": "DAC Beachcroft",
+    "sra_number": "440774",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00",
+    "companies_house_number": "OC317852"
+  },
+  {
+    "name": "Din Solicitors",
+    "sra_number": "8008984",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2024-11-14T00:00:00",
+    "companies_house_number": "10528272"
+  },
+  {
+    "name": "Driscoll Kingston Solicitors",
+    "sra_number": "839699",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2022-03-21T00:00:00",
+    "companies_house_number": "13872283"
+  },
+  {
+    "name": "EMB Solicitors",
+    "sra_number": "513887",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECSOLE",
+    "sra_authorisation_date": "2015-11-01T00:00:00"
+  },
+  {
+    "name": "Envision Solicitors",
+    "sra_number": "801120",
+    "sra_status": "YES",
+    "sra_authorisation_type": "LICBODY",
+    "sra_authorisation_date": "2024-08-28T00:00:00",
+    "companies_house_number": "12666296"
+  },
+  {
+    "name": "Equitas Solicitors",
+    "sra_number": "459787",
+    "sra_status": "YES",
+    "sra_authorisation_type": "LICBODY",
+    "sra_authorisation_date": "2019-11-28T00:00:00",
+    "companies_house_number": "5871121"
+  },
+  {
+    "name": "Ersan & Co Solicitors Ltd",
+    "sra_number": "486894",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00",
+    "companies_house_number": "6528954"
+  },
+  {
+    "name": "Excel Solicitors & Advocates",
+    "sra_number": "521375",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00",
+    "companies_house_number": "7028000"
+  },
+  {
+    "name": "Express Solicitors",
+    "sra_number": "326770",
+    "sra_status": "CEASE",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00"
+  },
+  {
+    "name": "Festival Law"
+  },
+  {
+    "name": "Fisher Day Solicitors",
+    "sra_number": "638085",
+    "sra_status": "CEASE",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2017-04-28T00:00:00"
+  },
+  {
+    "name": "Gildeas Solicitors"
+  },
+  {
+    "name": "Gordon Dean Solicitors LLP",
+    "sra_number": "839703",
+    "sra_status": "REVOKE",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2022-03-28T00:00:00",
+    "companies_house_number": "06596448"
+  },
+  {
+    "name": "HCB Park Woodfine LLP"
+  },
+  {
+    "name": "Hadi Law Solicitors",
+    "sra_number": "565572",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2012-01-09T00:00:00",
+    "companies_house_number": "7856769"
+  },
+  {
+    "name": "Harcourt Stirling",
+    "sra_number": "668045",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2020-02-27T00:00:00"
+  },
+  {
+    "name": "Hardy Macphail Solicitors"
+  },
+  {
+    "name": "ICE LAW",
+    "sra_number": "8004180",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2023-10-02T00:00:00",
+    "companies_house_number": "SC723400"
+  },
+  {
+    "name": "Imperium Law Solicitors",
+    "sra_number": "560243",
+    "sra_status": "CEASE",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00",
+    "companies_house_number": "7586361"
+  },
+  {
+    "name": "John Copland & Son",
+    "sra_number": "45488",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00"
+  },
+  {
+    "name": "John Howe & Co Solicitors",
+    "sra_number": "569965",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2012-11-26T00:00:00",
+    "companies_house_number": "3644390"
+  },
+  {
+    "name": "Keoghs LLP",
+    "sra_number": "573546",
+    "sra_status": "YES",
+    "sra_authorisation_type": "LICBODY",
+    "sra_authorisation_date": "2012-11-09T00:00:00",
+    "companies_house_number": "OC321124"
+  },
+  {
+    "name": "Kiteleys Solicitors",
+    "sra_number": "401309",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00",
+    "companies_house_number": "3113721"
+  },
+  {
+    "name": "Lansdale & Holdsworth Solicitors",
+    "sra_number": "8005729",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2023-11-02T00:00:00",
+    "companies_house_number": "OC443448"
+  },
+  {
+    "name": "Lindsays LLP",
+    "sra_number": "483580",
+    "sra_status": "",
+    "sra_authorisation_type": "NOTSRA-F",
+    "sra_authorisation_date": ""
+  },
+  {
+    "name": "Lopian Wagner Solicitors"
+  },
+  {
+    "name": "Marvel Oak Solicitors"
+  },
+  {
+    "name": "Mergul Law",
+    "sra_number": "665633",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2019-11-01T00:00:00",
+    "companies_house_number": "0203 876 7643"
+  },
+  {
+    "name": "Moore Barlow",
+    "sra_number": "487618",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00",
+    "companies_house_number": "OC335180"
+  },
+  {
+    "name": "Nayyars Solicitors Limited",
+    "sra_number": "557234",
+    "sra_status": "YES",
+    "sra_authorisation_type": "LICBODY",
+    "sra_authorisation_date": "2018-12-20T00:00:00",
+    "companies_house_number": "7285186"
+  },
+  {
+    "name": "Oakwood Solicitors Limited",
+    "sra_number": "512897",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00",
+    "companies_house_number": "6891845"
+  },
+  {
+    "name": "Pabla & Pabla Solicitors Ltd",
+    "sra_number": "567741",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2012-05-24T00:00:00",
+    "companies_house_number": "7861504"
+  },
+  {
+    "name": "Parmar & Co Solicitors",
+    "sra_number": "633479",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2016-09-21T00:00:00",
+    "companies_house_number": "10205341"
+  },
+  {
+    "name": "Petherbridge Bassra",
+    "sra_number": "613817",
+    "sra_status": "YES",
+    "sra_authorisation_type": "LICBODY",
+    "sra_authorisation_date": "2015-05-01T00:00:00"
+  },
+  {
+    "name": "Pilgrim Hope Solicitors",
+    "sra_number": "631631",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2017-02-01T00:00:00",
+    "companies_house_number": "09863873"
+  },
+  {
+    "name": "Progressive Solicitors Limited",
+    "sra_number": "634041",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2016-11-01T00:00:00"
+  },
+  {
+    "name": "Prowse Phillips Law Limited",
+    "sra_number": "621870",
+    "sra_status": "YES",
+    "sra_authorisation_type": "LICBODY",
+    "sra_authorisation_date": "2015-07-29T00:00:00"
+  },
+  {
+    "name": "R M Legal Solicitors LLP",
+    "sra_number": "62094",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECSOLE",
+    "sra_authorisation_date": "2015-11-01T00:00:00"
+  },
+  {
+    "name": "SC Law",
+    "sra_number": "598615",
+    "sra_status": "CEASE",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2013-09-25T00:00:00",
+    "companies_house_number": "8123374"
+  },
+  {
+    "name": "Shah Law Chambers",
+    "sra_number": "814991",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2021-03-22T00:00:00",
+    "companies_house_number": "13132931"
+  },
+  {
+    "name": "Shires Law Ltd",
+    "sra_number": "645660",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2018-02-08T00:00:00",
+    "companies_house_number": "09587000"
+  },
+  {
+    "name": "Simper Law Ltd",
+    "sra_number": "628123",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2016-05-20T00:00:00",
+    "companies_house_number": "09950480"
+  },
+  {
+    "name": "Slater & Gordon (UK) LLP",
+    "sra_number": "568390",
+    "sra_status": "",
+    "sra_authorisation_type": "NOTSRA-F",
+    "sra_authorisation_date": ""
+  },
+  {
+    "name": "Solicitor Direct",
+    "sra_number": "627677",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2016-02-26T00:00:00"
+  },
+  {
+    "name": "Starck Uberol Solicitors & Advocates",
+    "sra_number": "611703",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2014-03-06T00:00:00"
+  },
+  {
+    "name": "TJL Solicitors LLP",
+    "sra_number": "564906",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-12-23T00:00:00",
+    "companies_house_number": "OC367616"
+  },
+  {
+    "name": "Taylor Rose Solicitors",
+    "sra_number": "623604",
+    "sra_status": "YES",
+    "sra_authorisation_type": "LICBODY",
+    "sra_authorisation_date": "2015-10-01T00:00:00",
+    "companies_house_number": "09673088"
+  },
+  {
+    "name": "The Claims Partnership",
+    "sra_number": "622118",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECSOLE",
+    "sra_authorisation_date": "2015-11-01T00:00:00"
+  },
+  {
+    "name": "Thorntons Law LLP",
+    "sra_number": "831290",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2022-01-07T00:00:00",
+    "companies_house_number": "SO300381"
+  },
+  {
+    "name": "True Personal Injury Solicitors"
+  },
+  {
+    "name": "Tyler Hoffman Solicitors",
+    "sra_number": "633499",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2016-10-18T00:00:00",
+    "companies_house_number": "10355130"
+  },
+  {
+    "name": "Veritas Solicitors",
+    "sra_number": "570421",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2012-10-18T00:00:00",
+    "companies_house_number": "8142424"
+  },
+  {
+    "name": "Wainbridge Solicitors Ltd",
+    "sra_number": "8000173",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2022-06-10T00:00:00",
+    "companies_house_number": "13931060"
+  },
+  {
+    "name": "Watkins & Gunn",
+    "sra_number": "820245",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2021-05-27T00:00:00"
+  },
+  {
+    "name": "Wellers",
+    "sra_number": "525515",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00",
+    "companies_house_number": "OC350170"
+  },
+  {
+    "name": "Wheelers LLP"
+  },
+  {
+    "name": "Wilkin Chapman LLP",
+    "sra_number": "509655",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2011-11-01T00:00:00",
+    "companies_house_number": "OC343261"
+  },
+  {
+    "name": "Winter Solicitors",
+    "sra_number": "608286",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECSOLE",
+    "sra_authorisation_date": "2015-11-01T00:00:00"
+  },
+  {
+    "name": "Zen Law",
+    "sra_number": "569891",
+    "sra_status": "YES",
+    "sra_authorisation_type": "RECBODY",
+    "sra_authorisation_date": "2013-01-01T00:00:00",
+    "companies_house_number": "8128913"
+  }
+]
