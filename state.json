@@ -18,16 +18,10 @@
     },
     "ch_number": "10952058",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "KHAN, Majid",
-          "role": "director",
-          "appointed": "2017-09-07"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "AR Solicitors": {
@@ -49,35 +43,10 @@
     },
     "ch_number": "07629843",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "KHAN, Muhammad Asghar",
-          "role": "director",
-          "appointed": "2011-05-11"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "AZEEM, Muhammad",
-          "role": "director",
-          "appointed": "2019-10-15",
-          "resigned": "2020-12-02"
-        },
-        {
-          "name": "DOWLING, Lee Michael",
-          "role": "director",
-          "appointed": "2011-05-12",
-          "resigned": "2013-06-30"
-        },
-        {
-          "name": "QAYYUM, Abdul",
-          "role": "director",
-          "appointed": "2011-05-11",
-          "resigned": "2012-09-28"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Abraham Baron Solicitors Ltd": {
@@ -99,16 +68,10 @@
     },
     "ch_number": "09733022",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "KHAN, Abraham",
-          "role": "director",
-          "appointed": "2015-08-14"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Alfred James & Co Solicitors LLP": {
@@ -130,88 +93,19 @@
     },
     "ch_number": "OC325753",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "FLEMING-CAMPBELL, Rachel",
-          "role": "llp-designated-member",
-          "appointed": "2010-10-01"
-        },
-        {
-          "name": "SIJUWADE, Adedeji Adeniji",
-          "role": "llp-designated-member",
-          "appointed": "2007-02-05"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "AHMED, Naushad",
-          "role": "llp-designated-member",
-          "appointed": "2007-02-05",
-          "resigned": "2010-10-01"
-        },
-        {
-          "name": "QA NOMINEES LIMITED",
-          "role": "corporate-llp-designated-member",
-          "appointed": "2007-02-05",
-          "resigned": "2007-02-05"
-        },
-        {
-          "name": "QA REGISTRARS LIMITED",
-          "role": "corporate-llp-designated-member",
-          "appointed": "2007-02-05",
-          "resigned": "2007-02-05"
-        },
-        {
-          "name": "SIJUWADE, Adedeji Ayinla",
-          "role": "llp-designated-member",
-          "appointed": "2007-12-10",
-          "resigned": "2009-09-30"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Allan James Solicitors": {
     "ch_number": "08238247",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "JAMES, Allan David",
-          "role": "director",
-          "appointed": "2012-10-03"
-        },
-        {
-          "name": "JAMES, Ashley David Thomas",
-          "role": "director",
-          "appointed": "2013-08-05"
-        },
-        {
-          "name": "JAMES, Sophie Olivia",
-          "role": "director",
-          "appointed": "2022-12-31"
-        },
-        {
-          "name": "STANLEY, John Stephen",
-          "role": "director",
-          "appointed": "2023-12-19"
-        },
-        {
-          "name": "STANLEY, Natalie Luisa",
-          "role": "director",
-          "appointed": "2013-04-06"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "JAMES, Tamara Luisa",
-          "role": "director",
-          "appointed": "2012-10-03",
-          "resigned": "2015-04-29"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Allied Law Chambers": {
@@ -233,21 +127,10 @@
     },
     "ch_number": "10280900",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "KHAN, Muhammad Sohail Babar",
-          "role": "director",
-          "appointed": "2016-12-12"
-        },
-        {
-          "name": "SHAFEEQUE, Muhammad",
-          "role": "director",
-          "appointed": "2016-07-15"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Allweis and Co Solicitors": {
@@ -269,29 +152,10 @@
     },
     "ch_number": "14891038",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "BASS, Samuel Isaac",
-          "role": "director",
-          "appointed": "2023-11-27"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "ALLWEIS, Jonathan",
-          "role": "secretary",
-          "appointed": "2023-05-24",
-          "resigned": "2024-03-27"
-        },
-        {
-          "name": "ALLWEIS, Jonathan",
-          "role": "director",
-          "appointed": "2023-05-24",
-          "resigned": "2024-10-28"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Aqua Law Solicitors": {
@@ -313,21 +177,10 @@
     },
     "ch_number": "11280308",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "KHALISADAR, Abdul Hadi",
-          "role": "director",
-          "appointed": "2024-08-03"
-        },
-        {
-          "name": "RAHMAN, Wahidur",
-          "role": "director",
-          "appointed": "2018-03-28"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Arch Law Limited": {
@@ -349,33 +202,10 @@
     },
     "ch_number": "12779240",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "ABELA, Daniel Raymond",
-          "role": "director",
-          "appointed": "2026-05-19"
-        },
-        {
-          "name": "LEAITHERLAND, Andrew Richard",
-          "role": "director",
-          "appointed": "2020-07-29"
-        },
-        {
-          "name": "LEECH, Rebekah Saffron",
-          "role": "director",
-          "appointed": "2025-05-16"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "LEAITHERLAND, Rachael Dawn",
-          "role": "director",
-          "appointed": "2021-08-23",
-          "resigned": "2026-05-19"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Arma Law": {
@@ -397,31 +227,19 @@
     },
     "ch_number": "NI739266",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "SMYTH, Gareth Martin",
-          "role": "director",
-          "appointed": "2026-03-27"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Armstrong James LLP": {
     "ch_number": "17200159",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "ARMSTRONG, Gary David",
-          "role": "director",
-          "appointed": "2026-05-05"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Banks Kelly Solicitors": {
@@ -468,49 +286,19 @@
     },
     "ch_number": "15436987",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "AHMED, Jahangir",
-          "role": "director",
-          "appointed": "2024-01-23"
-        },
-        {
-          "name": "UDDIN, Shahin",
-          "role": "director",
-          "appointed": "2024-01-23"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Benjamin Solicitors t/a Integrity Law": {
     "ch_number": "09826983",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "BENJAMIN, Abhishek",
-          "role": "director",
-          "appointed": "2015-10-15"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "KUMAR, Vinod",
-          "role": "director",
-          "appointed": "2015-10-21",
-          "resigned": "2016-02-18"
-        },
-        {
-          "name": "QADIR, Kais",
-          "role": "director",
-          "appointed": "2021-01-12",
-          "resigned": "2023-11-03"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Bentley Sterling & Co Solicitors": {
@@ -532,21 +320,10 @@
     },
     "ch_number": "10719995",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "BEG, Mirza Jawad Naeem Iqbal",
-          "role": "director",
-          "appointed": "2017-04-11"
-        },
-        {
-          "name": "JABBAR, Khaqan Ahad Pasha",
-          "role": "director",
-          "appointed": "2017-04-11"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Beyond Legal": {
@@ -568,41 +345,19 @@
     },
     "ch_number": "OC346238",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "LINNITT, Christopher Craig",
-          "role": "llp-designated-member",
-          "appointed": "2009-06-08"
-        },
-        {
-          "name": "LINNITT, Clare Naomi",
-          "role": "llp-designated-member",
-          "appointed": "2009-06-08"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "llp"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "CBJL Limited": {
     "ch_number": "10826058",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "LANDAU, Caroline",
-          "role": "secretary",
-          "appointed": "2017-06-19"
-        },
-        {
-          "name": "LANDAU, Caroline",
-          "role": "director",
-          "appointed": "2017-06-19"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Carpenters Solicitors": {
@@ -624,44 +379,10 @@
     },
     "ch_number": "06532413",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "CARPENTER, John David",
-          "role": "secretary",
-          "appointed": "2008-04-07"
-        },
-        {
-          "name": "CARPENTER, John David",
-          "role": "director",
-          "appointed": "2008-04-07"
-        },
-        {
-          "name": "RICHARDS, Donna Marie",
-          "role": "director",
-          "appointed": "2015-10-09"
-        },
-        {
-          "name": "SCULLY, Donna Marie",
-          "role": "director",
-          "appointed": "2008-04-07"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "RWL DIRECTORS LIMITED",
-          "role": "corporate-director",
-          "appointed": "2008-03-12",
-          "resigned": "2008-03-12"
-        },
-        {
-          "name": "RWL REGISTRARS LIMITED",
-          "role": "corporate-secretary",
-          "appointed": "2008-03-12",
-          "resigned": "2008-03-12"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Clarkson Wright & Jakes LLP": {
@@ -708,511 +429,10 @@
     },
     "ch_number": "OC317852",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "ALLISON, William Henry, Mr.",
-          "role": "llp-member",
-          "appointed": "2011-10-31"
-        },
-        {
-          "name": "ALLNUTT, Hans Victor Edward Frederick",
-          "role": "llp-member",
-          "appointed": "2016-05-01"
-        },
-        {
-          "name": "ALVAREZ-CIENFUEGOS FERNANDEZ, Jose Maria",
-          "role": "llp-member",
-          "appointed": "2016-05-01"
-        },
-        {
-          "name": "AMUNATEGUI ECHEVERRIA, Andres",
-          "role": "llp-member",
-          "appointed": "2019-06-17"
-        },
-        {
-          "name": "ASENSI PALLARES, Eduardo Maria",
-          "role": "llp-member",
-          "appointed": "2020-01-01"
-        },
-        {
-          "name": "AUSTIN, Rebecca Sian",
-          "role": "llp-member",
-          "appointed": "2026-05-01"
-        },
-        {
-          "name": "BAKER, Thomas Cooper",
-          "role": "llp-member",
-          "appointed": "2014-05-01"
-        },
-        {
-          "name": "BARR, Timothy Giles",
-          "role": "llp-member",
-          "appointed": "2025-09-01"
-        },
-        {
-          "name": "BENDING, Charles",
-          "role": "llp-member",
-          "appointed": "2014-05-01"
-        },
-        {
-          "name": "BLANCO RUANO, Gustavo Alejandro",
-          "role": "llp-member",
-          "appointed": "2020-05-04"
-        },
-        {
-          "name": "BLOOMFIELD, Louise Michelle",
-          "role": "llp-member",
-          "appointed": "2021-05-01"
-        },
-        {
-          "name": "BRAMHALL, John Francis",
-          "role": "llp-member",
-          "appointed": "2011-10-31"
-        },
-        {
-          "name": "BRANNIGAN, Gemma Kirsten",
-          "role": "llp-member",
-          "appointed": "2026-05-01"
-        },
-        {
-          "name": "BRIGGS, Graham Philip",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "BRODERICK, Lisa",
-          "role": "llp-designated-member",
-          "appointed": "2014-08-01"
-        },
-        {
-          "name": "BROGDEN, Jonathan",
-          "role": "llp-member",
-          "appointed": "2015-05-01"
-        },
-        {
-          "name": "BURNETT, Charlotte Ann",
-          "role": "llp-member",
-          "appointed": "2021-05-01"
-        },
-        {
-          "name": "BUTCHER, Nathan James",
-          "role": "llp-member",
-          "appointed": "2006-03-01"
-        },
-        {
-          "name": "CALDER, Katherine Jane",
-          "role": "llp-member",
-          "appointed": "2024-05-01"
-        },
-        {
-          "name": "CAMPBELL, John Marcus",
-          "role": "llp-designated-member",
-          "appointed": "2006-03-01"
-        },
-        {
-          "name": "CAMPBELL, Nathaniel Ian",
-          "role": "llp-member",
-          "appointed": "2026-05-01"
-        },
-        {
-          "name": "CETTA, Maria Teresa",
-          "role": "llp-member",
-          "appointed": "2025-01-23"
-        },
-        {
-          "name": "CHERRY, Caroline Nicola",
-          "role": "llp-member",
-          "appointed": "2026-05-01"
-        },
-        {
-          "name": "CHRONIAS, Nicholas John",
-          "role": "llp-member",
-          "appointed": "2009-05-01"
-        },
-        {
-          "name": "CID-LUNA CLARES, I\u00f1igo Gonzalo",
-          "role": "llp-member",
-          "appointed": "2020-01-15"
-        },
-        {
-          "name": "CLEGG, Virginia Eve",
-          "role": "llp-member",
-          "appointed": "2006-03-01"
-        },
-        {
-          "name": "CLOUGH, Andrew Michael William",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "COLEMAN, Clarissa Leah",
-          "role": "llp-member",
-          "appointed": "2024-05-01"
-        },
-        {
-          "name": "DANIELS, Benjamin James Vaughan",
-          "role": "llp-designated-member",
-          "appointed": "2008-05-01"
-        },
-        {
-          "name": "DARLING, Matthew Edward",
-          "role": "llp-member",
-          "appointed": "2006-05-01"
-        },
-        {
-          "name": "DAVISON, Paul Anthony",
-          "role": "llp-member",
-          "appointed": "2013-05-01"
-        },
-        {
-          "name": "DEVERILL, Jonathan Charles",
-          "role": "llp-member",
-          "appointed": "2020-11-01"
-        },
-        {
-          "name": "DRABU, Hamza Nabi",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "DURSTON-HILLYER, Heather Sarah",
-          "role": "llp-member",
-          "appointed": "2023-05-01"
-        },
-        {
-          "name": "DYKE, Christopher James",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "FARMER, Katherine Elizabeth",
-          "role": "llp-member",
-          "appointed": "2019-05-01"
-        },
-        {
-          "name": "FAULKNER, Helen Louise",
-          "role": "llp-designated-member",
-          "appointed": "2008-05-01"
-        },
-        {
-          "name": "FINN, Declan Patrick",
-          "role": "llp-member",
-          "appointed": "2026-05-01"
-        },
-        {
-          "name": "FOGLIA, Guido",
-          "role": "llp-member",
-          "appointed": "2023-02-10"
-        },
-        {
-          "name": "GARLAND, Nicholas",
-          "role": "llp-member",
-          "appointed": "2021-05-01"
-        },
-        {
-          "name": "GILL, Fiona Mary Ann",
-          "role": "llp-member",
-          "appointed": "2011-10-31"
-        },
-        {
-          "name": "GODDING, Craig Richard",
-          "role": "llp-member",
-          "appointed": "2019-05-01"
-        },
-        {
-          "name": "GOODMAN, Jonathan",
-          "role": "llp-member",
-          "appointed": "2017-03-01"
-        },
-        {
-          "name": "GREENWOOD, Duncan Mark",
-          "role": "llp-member",
-          "appointed": "2006-03-01"
-        },
-        {
-          "name": "GUILL\u00c9N P\u00c9REZ, Pablo",
-          "role": "llp-member",
-          "appointed": "2021-04-05"
-        },
-        {
-          "name": "HARMAN, Philip James",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "HARRISON, James Stephen",
-          "role": "llp-member",
-          "appointed": "2018-05-01"
-        },
-        {
-          "name": "HART, Anna",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "HARTLEY, Clare",
-          "role": "llp-member",
-          "appointed": "2022-05-01"
-        },
-        {
-          "name": "HEWITT, Tobias John",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "HIGHLEY, Richard Ian",
-          "role": "llp-member",
-          "appointed": "2011-10-31"
-        },
-        {
-          "name": "HILL, Patrick Allan",
-          "role": "llp-designated-member",
-          "appointed": "2012-05-01"
-        },
-        {
-          "name": "HILLYARD, Nicholas James",
-          "role": "llp-member",
-          "appointed": "2026-05-01"
-        },
-        {
-          "name": "HOLMES, Martin Robert",
-          "role": "llp-member",
-          "appointed": "2022-05-01"
-        },
-        {
-          "name": "HUGHES-WILLIAMS, Clare",
-          "role": "llp-member",
-          "appointed": "2014-05-01"
-        },
-        {
-          "name": "JACKSON, Simon Timothy",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "JOHNSON, Andrew Colin",
-          "role": "llp-member",
-          "appointed": "2024-05-01"
-        },
-        {
-          "name": "KELLY, Gerald Victor",
-          "role": "llp-member",
-          "appointed": "2025-03-17"
-        },
-        {
-          "name": "KENDALL, Mark Andrew Richard",
-          "role": "llp-member",
-          "appointed": "2018-05-01"
-        },
-        {
-          "name": "KEY, Alison Mary",
-          "role": "llp-member",
-          "appointed": "2007-05-01"
-        },
-        {
-          "name": "KONSTA, Simon Nicholas",
-          "role": "llp-member",
-          "appointed": "2023-01-30"
-        },
-        {
-          "name": "KOWALSKI, Jade Leanne",
-          "role": "llp-member",
-          "appointed": "2023-05-01"
-        },
-        {
-          "name": "LEONARD, Gemma",
-          "role": "llp-member",
-          "appointed": "2017-05-01"
-        },
-        {
-          "name": "LOCK, Alex Richard",
-          "role": "llp-member",
-          "appointed": "2006-03-01"
-        },
-        {
-          "name": "LOXLEY, Richard James",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "LUCAS, Andrew Joseph",
-          "role": "llp-member",
-          "appointed": "2024-11-11"
-        },
-        {
-          "name": "MAILLIE, John Parker",
-          "role": "llp-member",
-          "appointed": "2012-09-03"
-        },
-        {
-          "name": "MARSH, Andrew Christopher Michael",
-          "role": "llp-member",
-          "appointed": "2006-03-01"
-        },
-        {
-          "name": "MCCORMACK, Rowena Sarah Catriona",
-          "role": "llp-member",
-          "appointed": "2024-06-21"
-        },
-        {
-          "name": "MCLELLAN, Stephen Michael",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "MCNABNEY, Joel Ladd",
-          "role": "llp-member",
-          "appointed": "2026-02-17"
-        },
-        {
-          "name": "MENZIES, Anthony John",
-          "role": "llp-member",
-          "appointed": "2015-05-01"
-        },
-        {
-          "name": "MORRIS, James Sinclair Benedict",
-          "role": "llp-member",
-          "appointed": "2006-03-27"
-        },
-        {
-          "name": "MORRIS-SMITH, Sally Anne",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "MURCOTT, Helen Patricia",
-          "role": "llp-member",
-          "appointed": "2023-05-01"
-        },
-        {
-          "name": "NAYLOR, William Edward",
-          "role": "llp-member",
-          "appointed": "2026-05-01"
-        },
-        {
-          "name": "NEVILLE, Mark Hastings",
-          "role": "llp-member",
-          "appointed": "2017-05-01"
-        },
-        {
-          "name": "O'CONNELL, William Francis",
-          "role": "llp-member",
-          "appointed": "2019-05-01"
-        },
-        {
-          "name": "O'REILLY, Louise Mary",
-          "role": "llp-member",
-          "appointed": "2026-05-01"
-        },
-        {
-          "name": "OGLE, Jonathan Peter Neil",
-          "role": "llp-member",
-          "appointed": "2026-05-01"
-        },
-        {
-          "name": "OLORENSHAW, Matthew David",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "PARKER-FULLER, George",
-          "role": "llp-member",
-          "appointed": "2024-03-01"
-        },
-        {
-          "name": "PARKS, Ben",
-          "role": "llp-member",
-          "appointed": "2026-03-01"
-        },
-        {
-          "name": "PATERSON, Alexander Robert Samuel",
-          "role": "llp-member",
-          "appointed": "2026-05-01"
-        },
-        {
-          "name": "PEARCE, Michael William",
-          "role": "llp-member",
-          "appointed": "2023-05-01"
-        },
-        {
-          "name": "PEROTTO, Anthony",
-          "role": "llp-member",
-          "appointed": "2023-02-10"
-        },
-        {
-          "name": "PIMENTEL PARDO, Jose Maria",
-          "role": "llp-member",
-          "appointed": "2018-05-11"
-        },
-        {
-          "name": "PITCHFORD, Steven Neil",
-          "role": "llp-member",
-          "appointed": "2023-09-01"
-        },
-        {
-          "name": "POLLITT, David Egerton",
-          "role": "llp-member",
-          "appointed": "2006-03-01"
-        },
-        {
-          "name": "PREDDY, Daniel Seth",
-          "role": "llp-member",
-          "appointed": "2014-11-01"
-        },
-        {
-          "name": "RANASINGHE, Udara Chintana",
-          "role": "llp-designated-member",
-          "appointed": "2014-05-01"
-        },
-        {
-          "name": "REED, James Derek",
-          "role": "llp-designated-member",
-          "appointed": "2016-05-01"
-        },
-        {
-          "name": "RISBY, Ross Robertson",
-          "role": "llp-member",
-          "appointed": "2021-05-01"
-        },
-        {
-          "name": "ROACH, Mark Trevanion",
-          "role": "llp-member",
-          "appointed": "2015-05-01"
-        },
-        {
-          "name": "ROBERTS, David Richard",
-          "role": "llp-member",
-          "appointed": "2021-04-01"
-        },
-        {
-          "name": "ROBERTS-JENKINS, Rachel",
-          "role": "llp-member",
-          "appointed": "2019-05-01"
-        },
-        {
-          "name": "ROBERTSON, Alistair James William",
-          "role": "llp-member",
-          "appointed": "2022-05-01"
-        },
-        {
-          "name": "RODR\u00cdGUEZ L\u00d3PEZ, Maria Pilar",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "ROSTAN D'ANCEZUNE, Vladimir Fran\u00e7ois-Xavier Eric",
-          "role": "llp-member",
-          "appointed": "2023-06-16"
-        },
-        {
-          "name": "ROWLEY, Georgina Caroline",
-          "role": "llp-member",
-          "appointed": "2024-05-01"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "llp"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Din Solicitors": {
@@ -1234,23 +454,10 @@
     },
     "ch_number": "10528272",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "RIAZ, Shabnam",
-          "role": "director",
-          "appointed": "2016-12-15"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "RIAZ, Shabnam",
-          "role": "director",
-          "appointed": "2016-12-15",
-          "resigned": "2016-12-15"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Driscoll Kingston Solicitors": {
@@ -1272,28 +479,10 @@
     },
     "ch_number": "13872283",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "DRISCOLL, James Robert",
-          "role": "director",
-          "appointed": "2022-01-26"
-        },
-        {
-          "name": "DRISCOLL, Karla Lea",
-          "role": "director",
-          "appointed": "2022-01-26"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "CULLEN, Eilish",
-          "role": "director",
-          "appointed": "2022-01-26",
-          "resigned": "2022-09-30"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "EMB Solicitors": {
@@ -1315,16 +504,10 @@
     },
     "ch_number": "14895552",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "QAZI, Abdul Rehman",
-          "role": "director",
-          "appointed": "2023-05-25"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Envision Solicitors": {
@@ -1346,16 +529,10 @@
     },
     "ch_number": "12666296",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "LIMBADA, Ismail Yakub",
-          "role": "director",
-          "appointed": "2020-06-12"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Equitas Solicitors": {
@@ -1452,64 +629,19 @@
     },
     "ch_number": "08458462",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "LAYFIELD, Charles Edward",
-          "role": "director",
-          "appointed": "2024-02-23"
-        },
-        {
-          "name": "MAXEY, James Thomas",
-          "role": "director",
-          "appointed": "2013-03-22"
-        },
-        {
-          "name": "SLADE, Daniel Adam",
-          "role": "director",
-          "appointed": "2014-02-10"
-        },
-        {
-          "name": "WYNNE, Liam John",
-          "role": "director",
-          "appointed": "2014-02-17"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "BOLTON, Stephen David",
-          "role": "secretary",
-          "appointed": "2023-10-17",
-          "resigned": "2024-03-20"
-        },
-        {
-          "name": "PATEY, Robin Keith",
-          "role": "director",
-          "appointed": "2014-02-10",
-          "resigned": "2019-02-14"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Festival Law": {
     "ch_number": "OC374158",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "BRIANO, Julia Elizabeth Anne",
-          "role": "llp-designated-member",
-          "appointed": "2012-04-10"
-        },
-        {
-          "name": "WHELAN, Ann Marie",
-          "role": "llp-designated-member",
-          "appointed": "2012-04-10"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "dissolved",
-      "company_type": "llp"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Fisher Day Solicitors": {
@@ -1531,96 +663,19 @@
     },
     "ch_number": "10629196",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "IQBAL, Amar",
-          "role": "director",
-          "appointed": "2021-09-24"
-        },
-        {
-          "name": "ISLAM, Muhammod Nurul",
-          "role": "director",
-          "appointed": "2017-02-20"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Gildeas Solicitors": {
     "ch_number": "SC365972",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "BALI, Sanjeev",
-          "role": "secretary",
-          "appointed": "2011-12-12"
-        },
-        {
-          "name": "BALI, Sanjeev",
-          "role": "director",
-          "appointed": "2010-02-26"
-        },
-        {
-          "name": "FERGUSON, Colin",
-          "role": "director",
-          "appointed": "2016-11-07"
-        },
-        {
-          "name": "HARE, Lindsay",
-          "role": "director",
-          "appointed": "2016-11-07"
-        },
-        {
-          "name": "HAY, Stephen James",
-          "role": "director",
-          "appointed": "2010-02-26"
-        },
-        {
-          "name": "MCKEE, David",
-          "role": "director",
-          "appointed": "2022-01-05"
-        },
-        {
-          "name": "THOMSON, Emma",
-          "role": "director",
-          "appointed": "2024-09-01"
-        },
-        {
-          "name": "THOMSON, Fergus Hugh",
-          "role": "director",
-          "appointed": "2025-02-19"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "BEVERIDGE, David Brannigan",
-          "role": "director",
-          "appointed": "2009-09-23",
-          "resigned": "2010-02-26"
-        },
-        {
-          "name": "KAVANAGH, Paul George",
-          "role": "director",
-          "appointed": "2010-02-26",
-          "resigned": "2016-11-07"
-        },
-        {
-          "name": "SHELF DIRECTOR LIMITED",
-          "role": "corporate-director",
-          "appointed": "2009-09-23",
-          "resigned": "2010-02-26"
-        },
-        {
-          "name": "SHELF SECRETARY LIMITED",
-          "role": "corporate-secretary",
-          "appointed": "2009-09-23",
-          "resigned": "2012-04-17"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Gordon Dean Solicitors LLP": {
@@ -1642,128 +697,19 @@
     },
     "ch_number": "06596448",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "DEAN, Gordon Richard",
-          "role": "director",
-          "appointed": "2008-05-19"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "BAZLEY, Phillip Colin",
-          "role": "secretary",
-          "appointed": "2008-05-19",
-          "resigned": "2013-03-31"
-        },
-        {
-          "name": "COMPANY DIRECTORS LIMITED",
-          "role": "corporate-director",
-          "appointed": "2008-05-19",
-          "resigned": "2008-05-19"
-        },
-        {
-          "name": "TEMPLE SECRETARIES LIMITED",
-          "role": "corporate-secretary",
-          "appointed": "2008-05-19",
-          "resigned": "2008-05-19"
-        }
-      ],
-      "company_status": "liquidation",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "HCB Park Woodfine LLP": {
     "ch_number": "OC317391",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "GAHAN, Michael David",
-          "role": "llp-designated-member",
-          "appointed": "2019-03-01"
-        },
-        {
-          "name": "HCB GROUP LIMITED",
-          "role": "corporate-llp-designated-member",
-          "appointed": "2017-04-06"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "BURRIDGE, Stephen Robert",
-          "role": "llp-member",
-          "appointed": "2007-04-01",
-          "resigned": "2008-10-17"
-        },
-        {
-          "name": "DANNAN, Garry Richard",
-          "role": "llp-member",
-          "appointed": "2006-01-24",
-          "resigned": "2012-03-31"
-        },
-        {
-          "name": "GAHAN, Michael David",
-          "role": "llp-designated-member",
-          "appointed": "2014-07-22",
-          "resigned": "2017-06-21"
-        },
-        {
-          "name": "LEVENE, Rae Clyde",
-          "role": "llp-designated-member",
-          "appointed": "2006-01-24",
-          "resigned": "2016-02-29"
-        },
-        {
-          "name": "NICOL, Rachel Julia",
-          "role": "llp-member",
-          "appointed": "2007-04-01",
-          "resigned": "2007-05-10"
-        },
-        {
-          "name": "PEARS, Ian Geoffrey",
-          "role": "llp-designated-member",
-          "appointed": "2006-01-24",
-          "resigned": "2020-03-16"
-        },
-        {
-          "name": "PETSIS JONES, Annamarie",
-          "role": "llp-member",
-          "appointed": "2007-04-01",
-          "resigned": "2007-10-27"
-        },
-        {
-          "name": "POPE, Vanessa Jane",
-          "role": "llp-member",
-          "appointed": "2006-01-24",
-          "resigned": "2008-06-13"
-        },
-        {
-          "name": "THELWALL, John Christopher",
-          "role": "llp-designated-member",
-          "appointed": "2007-04-01",
-          "resigned": "2014-07-22"
-        },
-        {
-          "name": "TRUNDLEY, Claire Alexia",
-          "role": "llp-designated-member",
-          "appointed": "2006-01-24",
-          "resigned": "2020-03-16"
-        },
-        {
-          "name": "WILLIAMSON, Stephen John",
-          "role": "llp-designated-member",
-          "appointed": "2007-04-01",
-          "resigned": "2013-02-07"
-        },
-        {
-          "name": "WILLS, Michael Alfred",
-          "role": "llp-designated-member",
-          "appointed": "2007-04-01",
-          "resigned": "2020-03-16"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Hadi Law Solicitors": {
@@ -1810,36 +756,19 @@
     },
     "ch_number": "12424675",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "TELEWA, Henry Eyiwumi",
-          "role": "director",
-          "appointed": "2020-01-27"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Hardy Macphail Solicitors": {
     "ch_number": "SC529297",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "MACPHAIL, Colin Angus",
-          "role": "director",
-          "appointed": "2016-03-10"
-        },
-        {
-          "name": "MACPHAIL, Pamela",
-          "role": "director",
-          "appointed": "2018-12-01"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "ICE LAW": {
@@ -1861,16 +790,10 @@
     },
     "ch_number": "SC723400",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "AHMED, Baber",
-          "role": "director",
-          "appointed": "2022-02-16"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Imperium Law Solicitors": {
@@ -1917,45 +840,10 @@
     },
     "ch_number": "00763523",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "JOHNSON, Timothy William",
-          "role": "secretary",
-          "appointed": "2018-02-21"
-        },
-        {
-          "name": "JOHNSON, Timothy William",
-          "role": "director",
-          "appointed": ""
-        },
-        {
-          "name": "JOHNSON, Wyndham",
-          "role": "director",
-          "appointed": ""
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "HUALLENAC TRUSTEE COMPANY",
-          "role": "corporate-secretary",
-          "appointed": "",
-          "resigned": "1996-12-18"
-        },
-        {
-          "name": "JOHNSON, Adrian Malcolm",
-          "role": "secretary",
-          "appointed": "1996-12-18",
-          "resigned": "2018-02-21"
-        },
-        {
-          "name": "JOHNSON, Adrian Malcolm",
-          "role": "director",
-          "appointed": "",
-          "resigned": "2021-03-24"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "John Howe & Co Solicitors": {
@@ -2002,511 +890,10 @@
     },
     "ch_number": "OC321124",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "ANSLOW, Jonathan David",
-          "role": "llp-member",
-          "appointed": "2017-11-13"
-        },
-        {
-          "name": "AUCHTERLOUNIE, Andrew",
-          "role": "llp-member",
-          "appointed": "2009-07-01"
-        },
-        {
-          "name": "AYRES, Luke Robert",
-          "role": "llp-member",
-          "appointed": "2025-10-01"
-        },
-        {
-          "name": "BADRICK, Russell James",
-          "role": "llp-member",
-          "appointed": "2024-03-25"
-        },
-        {
-          "name": "BAXENDALE, Laura",
-          "role": "llp-member",
-          "appointed": "2023-04-01"
-        },
-        {
-          "name": "BAXTER, Paul Andrew",
-          "role": "llp-member",
-          "appointed": "2016-06-27"
-        },
-        {
-          "name": "BERRY, Stephanie",
-          "role": "llp-member",
-          "appointed": "2010-06-01"
-        },
-        {
-          "name": "BINGHAM, Jonathan",
-          "role": "llp-member",
-          "appointed": "2024-11-11"
-        },
-        {
-          "name": "BIRD, Ryan",
-          "role": "llp-member",
-          "appointed": "2020-10-01"
-        },
-        {
-          "name": "BLAIR, Rachel",
-          "role": "llp-member",
-          "appointed": "2023-04-01"
-        },
-        {
-          "name": "BOOTH, Jonathan",
-          "role": "llp-member",
-          "appointed": "2023-04-01"
-        },
-        {
-          "name": "BRATT, Phillip",
-          "role": "llp-member",
-          "appointed": "2023-06-05"
-        },
-        {
-          "name": "BURFIELD, Matthew James",
-          "role": "llp-member",
-          "appointed": "2016-06-27"
-        },
-        {
-          "name": "CARR, Allison Jane",
-          "role": "llp-designated-member",
-          "appointed": "2006-11-15"
-        },
-        {
-          "name": "CARROLL, Ian",
-          "role": "llp-member",
-          "appointed": "2019-08-01"
-        },
-        {
-          "name": "CASSIDY, Kirsty",
-          "role": "llp-member",
-          "appointed": "2025-01-06"
-        },
-        {
-          "name": "CHAPMAN, Anne",
-          "role": "llp-member",
-          "appointed": "2023-07-03"
-        },
-        {
-          "name": "CLEMSON, Stuart",
-          "role": "llp-member",
-          "appointed": "2022-08-30"
-        },
-        {
-          "name": "CLOUGH, Louise Ann",
-          "role": "llp-member",
-          "appointed": "2011-11-01"
-        },
-        {
-          "name": "COBB, Connie",
-          "role": "llp-member",
-          "appointed": "2017-10-26"
-        },
-        {
-          "name": "COWAN, Douglas",
-          "role": "llp-member",
-          "appointed": "2017-04-18"
-        },
-        {
-          "name": "CROFT, Scott Warwick",
-          "role": "llp-member",
-          "appointed": "2025-10-01"
-        },
-        {
-          "name": "CROSTON, Stephen",
-          "role": "llp-member",
-          "appointed": "2009-07-01"
-        },
-        {
-          "name": "DALE, Anthony",
-          "role": "llp-member",
-          "appointed": "2009-07-01"
-        },
-        {
-          "name": "DANCE, Karen",
-          "role": "llp-member",
-          "appointed": "2025-07-28"
-        },
-        {
-          "name": "DAVIES, Pamela Louise",
-          "role": "llp-member",
-          "appointed": "2006-11-15"
-        },
-        {
-          "name": "DAWES, Natalie",
-          "role": "llp-member",
-          "appointed": "2020-02-01"
-        },
-        {
-          "name": "DAWSON, Greg",
-          "role": "llp-member",
-          "appointed": "2021-03-08"
-        },
-        {
-          "name": "DE LA PORTE, Paul",
-          "role": "llp-member",
-          "appointed": "2022-08-22"
-        },
-        {
-          "name": "DEAN, Howard Michael",
-          "role": "llp-member",
-          "appointed": "2011-05-03"
-        },
-        {
-          "name": "DEXTER, Julian Maurice",
-          "role": "llp-member",
-          "appointed": "2010-06-01"
-        },
-        {
-          "name": "DHILLON, Sharanjit",
-          "role": "llp-member",
-          "appointed": "2019-08-01"
-        },
-        {
-          "name": "EASTWOOD, Emily",
-          "role": "llp-member",
-          "appointed": "2021-10-01"
-        },
-        {
-          "name": "EDWARDS, Louise",
-          "role": "llp-member",
-          "appointed": "2012-12-01"
-        },
-        {
-          "name": "ELDER, Daniel James",
-          "role": "llp-member",
-          "appointed": "2013-07-01"
-        },
-        {
-          "name": "ELDERTON, Sarah Louise",
-          "role": "llp-member",
-          "appointed": "2022-07-04"
-        },
-        {
-          "name": "ELLSON, Elise",
-          "role": "llp-member",
-          "appointed": "2013-07-01"
-        },
-        {
-          "name": "EVANS, Andrew David",
-          "role": "llp-member",
-          "appointed": "2018-02-12"
-        },
-        {
-          "name": "FARRELL, Joanne",
-          "role": "llp-member",
-          "appointed": "2022-07-11"
-        },
-        {
-          "name": "FERRIE, Elizabeth",
-          "role": "llp-member",
-          "appointed": "2019-08-01"
-        },
-        {
-          "name": "FITZPATRICK, Gary Eugene",
-          "role": "llp-member",
-          "appointed": "2006-11-15"
-        },
-        {
-          "name": "FLANAGAN, Lauren",
-          "role": "llp-member",
-          "appointed": "2020-10-01"
-        },
-        {
-          "name": "FORD, Daniel",
-          "role": "llp-member",
-          "appointed": "2020-10-01"
-        },
-        {
-          "name": "FORD, Heather",
-          "role": "llp-member",
-          "appointed": "2017-08-01"
-        },
-        {
-          "name": "FOX, Eleanor Rachel",
-          "role": "llp-member",
-          "appointed": "2023-04-01"
-        },
-        {
-          "name": "FRANCIS, Joanne",
-          "role": "llp-member",
-          "appointed": "2022-08-02"
-        },
-        {
-          "name": "GIANFERRARI, Nicholas",
-          "role": "llp-member",
-          "appointed": "2022-12-01"
-        },
-        {
-          "name": "GOBLE, Louise Clare",
-          "role": "llp-member",
-          "appointed": "2016-06-27"
-        },
-        {
-          "name": "GODWIN, Marsha",
-          "role": "llp-member",
-          "appointed": "2023-04-01"
-        },
-        {
-          "name": "GOODMAN, Oliver",
-          "role": "llp-member",
-          "appointed": "2021-07-01"
-        },
-        {
-          "name": "GRAY, Robert",
-          "role": "llp-member",
-          "appointed": "2016-07-11"
-        },
-        {
-          "name": "GREER, Richard John",
-          "role": "llp-member",
-          "appointed": "2018-02-05"
-        },
-        {
-          "name": "GUERIN, John Gerard",
-          "role": "llp-member",
-          "appointed": "2025-08-04"
-        },
-        {
-          "name": "HALL, Mark Richard",
-          "role": "llp-member",
-          "appointed": "2012-07-01"
-        },
-        {
-          "name": "HANSEN, Kari",
-          "role": "llp-member",
-          "appointed": "2018-02-12"
-        },
-        {
-          "name": "HARRISON, Katherine",
-          "role": "llp-member",
-          "appointed": "2016-09-01"
-        },
-        {
-          "name": "HARVEY, Michael",
-          "role": "llp-member",
-          "appointed": "2022-12-19"
-        },
-        {
-          "name": "HATCHER, Jack",
-          "role": "llp-member",
-          "appointed": "2024-03-25"
-        },
-        {
-          "name": "HAWKER, Shelley",
-          "role": "llp-member",
-          "appointed": "2023-04-01"
-        },
-        {
-          "name": "HENNESSY, David",
-          "role": "llp-member",
-          "appointed": "2017-05-15"
-        },
-        {
-          "name": "HENRY, Rachel Anne",
-          "role": "llp-member",
-          "appointed": "2025-08-26"
-        },
-        {
-          "name": "HERRING, Gary",
-          "role": "llp-member",
-          "appointed": "2019-01-21"
-        },
-        {
-          "name": "HILTON, Dale",
-          "role": "llp-member",
-          "appointed": "2020-10-01"
-        },
-        {
-          "name": "HOEY, Caroline Ann",
-          "role": "llp-member",
-          "appointed": "2010-12-06"
-        },
-        {
-          "name": "HOLME, Gareth",
-          "role": "llp-member",
-          "appointed": "2023-10-16"
-        },
-        {
-          "name": "HOUSEAGO, Richard Thomas",
-          "role": "llp-member",
-          "appointed": "2017-12-01"
-        },
-        {
-          "name": "HOWARTH, Jason",
-          "role": "llp-member",
-          "appointed": "2018-12-11"
-        },
-        {
-          "name": "HUTCHISON, David",
-          "role": "llp-member",
-          "appointed": "2026-04-01"
-        },
-        {
-          "name": "IBBOTSON, Elaine",
-          "role": "llp-member",
-          "appointed": "2012-07-01"
-        },
-        {
-          "name": "IBBOTSON, Timothy",
-          "role": "llp-member",
-          "appointed": "2019-08-01"
-        },
-        {
-          "name": "INGRAM, Sarah",
-          "role": "llp-member",
-          "appointed": "2026-01-05"
-        },
-        {
-          "name": "INGRAM, Timothy Alwyne",
-          "role": "llp-member",
-          "appointed": "2019-04-01"
-        },
-        {
-          "name": "JEFFREY, Emily",
-          "role": "llp-member",
-          "appointed": "2017-05-15"
-        },
-        {
-          "name": "JOHNSON, Andrew",
-          "role": "llp-member",
-          "appointed": "2024-03-25"
-        },
-        {
-          "name": "JOHNSTONE, Amanda",
-          "role": "llp-member",
-          "appointed": "2021-10-01"
-        },
-        {
-          "name": "KEENAN, Rachel",
-          "role": "llp-member",
-          "appointed": "2024-01-01"
-        },
-        {
-          "name": "KELLY, Lisa",
-          "role": "llp-member",
-          "appointed": "2017-12-11"
-        },
-        {
-          "name": "KENWORTHY, Peter Robert",
-          "role": "llp-member",
-          "appointed": "2008-07-28"
-        },
-        {
-          "name": "KEOGHS ACQUISITION LIMITED",
-          "role": "corporate-llp-designated-member",
-          "appointed": "2012-11-09"
-        },
-        {
-          "name": "KHALID, Ghazala",
-          "role": "llp-member",
-          "appointed": "2017-04-03"
-        },
-        {
-          "name": "KIDD, Maria",
-          "role": "llp-member",
-          "appointed": "2021-12-13"
-        },
-        {
-          "name": "KIRK, Matthew Robert",
-          "role": "llp-member",
-          "appointed": "2025-10-01"
-        },
-        {
-          "name": "KOBER, Catherine",
-          "role": "llp-member",
-          "appointed": "2021-07-01"
-        },
-        {
-          "name": "KUZNIK, Matthias",
-          "role": "llp-member",
-          "appointed": "2024-06-12"
-        },
-        {
-          "name": "LACEY, Katie Anne",
-          "role": "llp-member",
-          "appointed": "2025-10-01"
-        },
-        {
-          "name": "LANIGAN, Jonathan Richard",
-          "role": "llp-member",
-          "appointed": "2019-12-16"
-        },
-        {
-          "name": "LARNDER, Natalie Joy",
-          "role": "llp-member",
-          "appointed": "2025-10-01"
-        },
-        {
-          "name": "LATHAM, Vanessa",
-          "role": "llp-member",
-          "appointed": "2023-02-06"
-        },
-        {
-          "name": "LAWRENCE, Ruth Janet",
-          "role": "llp-member",
-          "appointed": "2018-02-12"
-        },
-        {
-          "name": "LEECH, Benjamin",
-          "role": "llp-member",
-          "appointed": "2017-10-01"
-        },
-        {
-          "name": "LEWIS, Jo",
-          "role": "llp-member",
-          "appointed": "2024-09-03"
-        },
-        {
-          "name": "LONG, Ivor Gerarde",
-          "role": "llp-member",
-          "appointed": "2018-02-12"
-        },
-        {
-          "name": "LUMB, Rachael",
-          "role": "llp-member",
-          "appointed": "2023-02-01"
-        },
-        {
-          "name": "LYNAM, Michael",
-          "role": "llp-member",
-          "appointed": "2025-01-08"
-        },
-        {
-          "name": "LYNCH, Graham",
-          "role": "llp-member",
-          "appointed": "2018-02-12"
-        },
-        {
-          "name": "MASTERS, Amy",
-          "role": "llp-member",
-          "appointed": "2021-10-01"
-        },
-        {
-          "name": "MAVROGHENIS, Peter Christopher",
-          "role": "llp-member",
-          "appointed": "2024-03-25"
-        },
-        {
-          "name": "MCALEER, Martin",
-          "role": "llp-member",
-          "appointed": "2009-08-17"
-        },
-        {
-          "name": "MCANDRY, Fraser",
-          "role": "llp-member",
-          "appointed": "2017-01-01"
-        },
-        {
-          "name": "MCBRIEN, Megan",
-          "role": "llp-member",
-          "appointed": "2024-01-01"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "llp"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Kiteleys Solicitors": {
@@ -2553,451 +940,37 @@
     },
     "ch_number": "OC443448",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "BARTALOTTA, Marco",
-          "role": "llp-designated-member",
-          "appointed": "2022-08-10"
-        },
-        {
-          "name": "FOX, Kyle",
-          "role": "llp-designated-member",
-          "appointed": "2026-04-05"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "JOHNSON, Michelle",
-          "role": "llp-designated-member",
-          "appointed": "2022-08-10",
-          "resigned": "2026-04-05"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Lindsays LLP": {
     "ch_number": "SO307055",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "ARMSTRONG, David James",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "BETT, John Alexander",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "BOATH, Ernest Sinclair",
-          "role": "llp-designated-member",
-          "appointed": "2023-05-26"
-        },
-        {
-          "name": "BUCHAN, Gavin James Alexander",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "COOPER, Kirsty Anne",
-          "role": "llp-designated-member",
-          "appointed": "2022-04-01"
-        },
-        {
-          "name": "CORNWELL, Jonathan Islay",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "CROFTS, Lewis",
-          "role": "llp-designated-member",
-          "appointed": "2026-04-01"
-        },
-        {
-          "name": "DIAMOND, Andrew Russell",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "DOHERTY, Benjamin John",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "DUNCAN, Alistair Ross",
-          "role": "llp-designated-member",
-          "appointed": "2023-05-26"
-        },
-        {
-          "name": "ENTWISTLE, Aileen Margaret",
-          "role": "llp-designated-member",
-          "appointed": "2026-05-18"
-        },
-        {
-          "name": "FITZGERALD, Alison Louise",
-          "role": "llp-designated-member",
-          "appointed": "2023-05-26"
-        },
-        {
-          "name": "FRASER, Caroline Allison",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "FRENZ, Amanda Jane",
-          "role": "llp-designated-member",
-          "appointed": "2023-05-26"
-        },
-        {
-          "name": "GOODMAN, Alastair Gordon",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "GORDON, Leanne",
-          "role": "llp-designated-member",
-          "appointed": "2024-04-01"
-        },
-        {
-          "name": "GORRY, Daniel Stephen",
-          "role": "llp-designated-member",
-          "appointed": "2024-04-01"
-        },
-        {
-          "name": "GRAY, Kenneth David",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "HAYWOOD, Brent William",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "HOLT, Rachel Louise",
-          "role": "llp-designated-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "HOWIE, Nicholas Alexander",
-          "role": "llp-designated-member",
-          "appointed": "2023-09-11"
-        },
-        {
-          "name": "JOHNSON, Ian Grant",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "KERR, Lynsey Christine",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "KIDD, Helen Claire",
-          "role": "llp-designated-member",
-          "appointed": "2022-05-30"
-        },
-        {
-          "name": "LAMB, Alexander Mcdougal",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "LEAHY, Darren John",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "LIGHTFOOT, Darren",
-          "role": "llp-designated-member",
-          "appointed": "2025-10-01"
-        },
-        {
-          "name": "MACEWAN, Gregor John",
-          "role": "llp-designated-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "MACKINTOSH, Caroline Ann",
-          "role": "llp-designated-member",
-          "appointed": "2024-01-31"
-        },
-        {
-          "name": "MCCARROLL, Clare Margaret",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "MCKAY, Alison Doreen",
-          "role": "llp-designated-member",
-          "appointed": "2023-04-01"
-        },
-        {
-          "name": "MCKAY, Lorna Agnes",
-          "role": "llp-designated-member",
-          "appointed": "2026-04-08"
-        },
-        {
-          "name": "MCKEE, Alison",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "MCNAB, Robert Duncan",
-          "role": "llp-designated-member",
-          "appointed": "2026-01-07"
-        },
-        {
-          "name": "MITCHELL, Ian Robert",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "MORRISON, Angela Jane",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "NASH, Derek Andrew",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "NICHOL, Stephanie",
-          "role": "llp-designated-member",
-          "appointed": "2026-01-07"
-        },
-        {
-          "name": "NOBLE, Nicole Laura",
-          "role": "llp-designated-member",
-          "appointed": "2024-04-01"
-        },
-        {
-          "name": "NORRIS, Louise Dorothy",
-          "role": "llp-designated-member",
-          "appointed": "2021-04-02"
-        },
-        {
-          "name": "O'HARE, Stephen Patrick",
-          "role": "llp-designated-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "PALL, Gurjit Singh",
-          "role": "llp-designated-member",
-          "appointed": "2025-03-03"
-        },
-        {
-          "name": "PASI, Lauren Ann",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "PRESTON, Kirsty Louise",
-          "role": "llp-designated-member",
-          "appointed": "2024-10-01"
-        },
-        {
-          "name": "RAWLINSON, Keith James",
-          "role": "llp-designated-member",
-          "appointed": "2025-09-01"
-        },
-        {
-          "name": "ROBERTSON, Eilidh Catriona",
-          "role": "llp-designated-member",
-          "appointed": "2025-10-01"
-        },
-        {
-          "name": "ROSE, David Geddes",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "SELFRIDGE, Vhari Yvonne",
-          "role": "llp-designated-member",
-          "appointed": "2022-04-01"
-        },
-        {
-          "name": "SMITH, Alastair James",
-          "role": "llp-designated-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "TAYLOR, Nina Ariella Salicath",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "THOM, John Gibb",
-          "role": "llp-designated-member",
-          "appointed": "2023-05-26"
-        },
-        {
-          "name": "TODD, Christopher John",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "WALKER, David Andrew",
-          "role": "llp-designated-member",
-          "appointed": "2024-04-01"
-        },
-        {
-          "name": "WILSON, Clare Louise",
-          "role": "llp-designated-member",
-          "appointed": "2024-04-01"
-        },
-        {
-          "name": "WOOD, David George",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
-          "name": "WYATT, Katherine Jane",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "ANDREW, James Clarke",
-          "role": "llp-designated-member",
-          "appointed": "2023-05-26",
-          "resigned": "2026-03-31"
-        },
-        {
-          "name": "CUMMINGS, Alasdair William Donald",
-          "role": "llp-designated-member",
-          "appointed": "2020-10-12",
-          "resigned": "2026-03-31"
-        },
-        {
-          "name": "DUNCAN, John Derek",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17",
-          "resigned": "2026-03-31"
-        },
-        {
-          "name": "FRENZ, Richard Alan",
-          "role": "llp-designated-member",
-          "appointed": "2023-05-26",
-          "resigned": "2025-03-31"
-        },
-        {
-          "name": "GALLAGHER, Jennifer",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17",
-          "resigned": "2024-12-31"
-        },
-        {
-          "name": "HADDEN, Ross",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17",
-          "resigned": "2021-10-31"
-        },
-        {
-          "name": "HARPER, Alastair Paul Ludovic",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17",
-          "resigned": "2022-05-31"
-        },
-        {
-          "name": "KEATINGE, Alastair John",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17",
-          "resigned": "2022-10-18"
-        },
-        {
-          "name": "KENNEDY, Callum Stuart",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17",
-          "resigned": "2025-03-31"
-        },
-        {
-          "name": "LAW, Susan Jane",
-          "role": "llp-designated-member",
-          "appointed": "2020-10-12",
-          "resigned": "2024-07-13"
-        },
-        {
-          "name": "MACKINNON, Duncan William Neil",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17",
-          "resigned": "2022-06-06"
-        },
-        {
-          "name": "MCLAREN, Alan Cunningham",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17",
-          "resigned": "2025-03-31"
-        },
-        {
-          "name": "RANKIN, Dorothy Crombie",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17",
-          "resigned": "2022-03-31"
-        },
-        {
-          "name": "ROBERTS, Douglas Andrew",
-          "role": "llp-designated-member",
-          "appointed": "2021-07-01",
-          "resigned": "2023-02-17"
-        },
-        {
-          "name": "TWEEDIE, Peter David",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17",
-          "resigned": "2024-03-31"
-        },
-        {
-          "name": "YELLOWLEES, Michael James, Dr",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17",
-          "resigned": "2025-09-30"
-        },
-        {
-          "name": "YELLOWLEES, Morag Wilson",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17",
-          "resigned": "2025-09-30"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Lopian Wagner Solicitors": {
     "ch_number": "17090924",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "WAHRHAFTIG, Abraham",
-          "role": "director",
-          "appointed": "2026-03-13"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Marvel Oak Solicitors": {
     "ch_number": "13799577",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "OLAOBAJU, Mojeed Adeniyi",
-          "role": "director",
-          "appointed": "2021-12-14"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Mergul Law": {
@@ -3044,554 +1017,10 @@
     },
     "ch_number": "OC335180",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "ADAMS, Timothy Christopher James",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "ANDREWS, Clare Emily",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "BAILEY, Roger Piers Marden",
-          "role": "llp-member",
-          "appointed": "2008-02-28"
-        },
-        {
-          "name": "BRACKLEY, Charlotte Louisa",
-          "role": "llp-member",
-          "appointed": "2023-05-01"
-        },
-        {
-          "name": "BRIGHT, David Francis",
-          "role": "llp-member",
-          "appointed": "2019-11-01"
-        },
-        {
-          "name": "BURGESS, Richard",
-          "role": "llp-member",
-          "appointed": "2024-06-24"
-        },
-        {
-          "name": "CASSIDY, Anne",
-          "role": "llp-member",
-          "appointed": "2019-11-13"
-        },
-        {
-          "name": "CHAPLIN, Rebecca Jane",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "COLLINGWOOD, Benjamin Douglas",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "CROOKALL, Sarah",
-          "role": "llp-member",
-          "appointed": "2025-05-21"
-        },
-        {
-          "name": "CROSS, Polly Melissa",
-          "role": "llp-member",
-          "appointed": "2023-05-01"
-        },
-        {
-          "name": "DEVINE, Matthew Sean Michael",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "DOBSON, Heather",
-          "role": "llp-member",
-          "appointed": "2019-11-01"
-        },
-        {
-          "name": "DUCK, Martin Patrick Victor",
-          "role": "llp-member",
-          "appointed": "2008-02-28"
-        },
-        {
-          "name": "EDWARDS, Lee",
-          "role": "llp-member",
-          "appointed": "2019-11-01"
-        },
-        {
-          "name": "EDWARDS, Lewis Geoffrey",
-          "role": "llp-member",
-          "appointed": "2024-09-02"
-        },
-        {
-          "name": "ERRHIOUI, Fadwa Houyam",
-          "role": "llp-member",
-          "appointed": "2019-11-13"
-        },
-        {
-          "name": "EVANS, Robert Mark Andrew",
-          "role": "llp-member",
-          "appointed": "2019-05-01"
-        },
-        {
-          "name": "FARR, Joanne Lesley",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "FARRANDS, Joanna Helen",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "FOSTER, David George",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "GOATLEY, Helen Margaret",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "GRANT, Mark Stephen",
-          "role": "llp-member",
-          "appointed": "2022-07-01"
-        },
-        {
-          "name": "GREEN, Sonia Marie",
-          "role": "llp-member",
-          "appointed": "2024-12-04"
-        },
-        {
-          "name": "GREENWOOD, Naomi",
-          "role": "llp-member",
-          "appointed": "2019-11-01"
-        },
-        {
-          "name": "HAVERFIELD, Claire Louise",
-          "role": "llp-member",
-          "appointed": "2019-11-01"
-        },
-        {
-          "name": "HORAN, Damian Patrick",
-          "role": "llp-member",
-          "appointed": "2008-02-28"
-        },
-        {
-          "name": "HUGHES, Richard John",
-          "role": "llp-member",
-          "appointed": "2019-11-01"
-        },
-        {
-          "name": "ICETON, Anna Danielle",
-          "role": "llp-member",
-          "appointed": "2023-12-07"
-        },
-        {
-          "name": "JONES, Victoria Ellen",
-          "role": "llp-member",
-          "appointed": "2021-05-01"
-        },
-        {
-          "name": "JORDAN, Sarah",
-          "role": "llp-member",
-          "appointed": "2019-11-01"
-        },
-        {
-          "name": "LADA-WALICKI, Joanna",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "LEARY, Callum Andrew",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "LEARY, Kirsty Louise",
-          "role": "llp-member",
-          "appointed": "2022-05-01"
-        },
-        {
-          "name": "LOOSEMORE, Benjamin Charles",
-          "role": "llp-member",
-          "appointed": "2023-05-01"
-        },
-        {
-          "name": "LUCAS, Mark Roger",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "LUDLOW, David Charles Haines",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "LYON, Erin Hope",
-          "role": "llp-member",
-          "appointed": "2025-05-01"
-        },
-        {
-          "name": "MARSH, Susannah Victoria",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "MAXWELL, Katherine Theresa",
-          "role": "llp-member",
-          "appointed": "2017-05-01"
-        },
-        {
-          "name": "MOORE-SAXTON, Michelle Marie",
-          "role": "llp-member",
-          "appointed": "2019-11-07"
-        },
-        {
-          "name": "OVER, Jeremy David Noel",
-          "role": "llp-member",
-          "appointed": "2017-05-01"
-        },
-        {
-          "name": "OWEN, Zoe Louise",
-          "role": "llp-member",
-          "appointed": "2019-11-07"
-        },
-        {
-          "name": "PARKES, Julian James Ronald",
-          "role": "llp-member",
-          "appointed": "2008-07-01"
-        },
-        {
-          "name": "POTTER, Emma Jane",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "REID, Gordon William",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "SHOKER, Rupeena Purewal",
-          "role": "llp-member",
-          "appointed": "2023-05-01"
-        },
-        {
-          "name": "SIDEBOTTOM, Malarvizhi",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "STANTON, Sarah Louise",
-          "role": "llp-member",
-          "appointed": "2019-05-01"
-        },
-        {
-          "name": "STERLING, Trevor David",
-          "role": "llp-member",
-          "appointed": "2017-05-01"
-        },
-        {
-          "name": "SUSHILA, Maya",
-          "role": "llp-member",
-          "appointed": "2018-05-01"
-        },
-        {
-          "name": "TAYLOR EDWARDS, Scott",
-          "role": "llp-member",
-          "appointed": "2020-05-01"
-        },
-        {
-          "name": "WALKER, Victoria Ann",
-          "role": "llp-member",
-          "appointed": "2019-11-01"
-        },
-        {
-          "name": "WARCHUS, John",
-          "role": "llp-member",
-          "appointed": "2015-01-05"
-        },
-        {
-          "name": "WHITTINGTON, Charles Edward",
-          "role": "llp-designated-member",
-          "appointed": "2013-06-24"
-        },
-        {
-          "name": "WILKES, Naomi Claire",
-          "role": "llp-member",
-          "appointed": "2020-06-08"
-        },
-        {
-          "name": "WILSON, Michael John",
-          "role": "llp-designated-member",
-          "appointed": "2011-05-01"
-        },
-        {
-          "name": "WINSTANLEY, Sophie Louise",
-          "role": "llp-member",
-          "appointed": "2024-05-14"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "ABOU-JAOUDE, Sara De Magalhes Pinto Kijjoa",
-          "role": "llp-member",
-          "appointed": "2020-05-01",
-          "resigned": "2021-04-30"
-        },
-        {
-          "name": "ADAMSON, Barry David",
-          "role": "llp-member",
-          "appointed": "2016-12-14",
-          "resigned": "2019-03-03"
-        },
-        {
-          "name": "AGNEW, Dorothy",
-          "role": "llp-member",
-          "appointed": "2019-11-01",
-          "resigned": "2024-11-30"
-        },
-        {
-          "name": "ALGAR, Luc Thomas",
-          "role": "llp-member",
-          "appointed": "2017-05-01",
-          "resigned": "2024-10-31"
-        },
-        {
-          "name": "ANDERSON, Claire Maria",
-          "role": "llp-member",
-          "appointed": "2016-05-01",
-          "resigned": "2017-12-31"
-        },
-        {
-          "name": "ARCHIBALD, Helen Joanna",
-          "role": "llp-member",
-          "appointed": "2020-05-01",
-          "resigned": "2024-04-30"
-        },
-        {
-          "name": "ARTHUR, Simon David",
-          "role": "llp-member",
-          "appointed": "2009-10-12",
-          "resigned": "2012-05-31"
-        },
-        {
-          "name": "BALL, Judith Elizabeth",
-          "role": "llp-member",
-          "appointed": "2020-05-01",
-          "resigned": "2025-04-30"
-        },
-        {
-          "name": "BALL, Stephen James",
-          "role": "llp-member",
-          "appointed": "2018-05-01",
-          "resigned": "2022-04-30"
-        },
-        {
-          "name": "BROWN, Carla Joanne",
-          "role": "llp-member",
-          "appointed": "2014-05-01",
-          "resigned": "2018-04-30"
-        },
-        {
-          "name": "CAMPBELL, Louise",
-          "role": "llp-member",
-          "appointed": "2022-05-01",
-          "resigned": "2025-09-05"
-        },
-        {
-          "name": "CANTONI, Charles",
-          "role": "llp-member",
-          "appointed": "2008-02-28",
-          "resigned": "2019-04-30"
-        },
-        {
-          "name": "CATON, Michael John",
-          "role": "llp-designated-member",
-          "appointed": "2008-02-28",
-          "resigned": "2014-05-01"
-        },
-        {
-          "name": "CHARLESWORTH, David",
-          "role": "llp-member",
-          "appointed": "2010-05-01",
-          "resigned": "2011-11-01"
-        },
-        {
-          "name": "CLARK, Thomas Charles",
-          "role": "llp-member",
-          "appointed": "2019-11-01",
-          "resigned": "2023-05-31"
-        },
-        {
-          "name": "CLOW, Stephen Edward",
-          "role": "llp-member",
-          "appointed": "2013-07-01",
-          "resigned": "2017-03-31"
-        },
-        {
-          "name": "DAVIES, John",
-          "role": "llp-member",
-          "appointed": "2009-08-03",
-          "resigned": "2013-11-08"
-        },
-        {
-          "name": "EDIS, Emma Louise",
-          "role": "llp-member",
-          "appointed": "2019-11-01",
-          "resigned": "2023-01-31"
-        },
-        {
-          "name": "EMERY, Debra Kim",
-          "role": "llp-member",
-          "appointed": "2012-05-01",
-          "resigned": "2020-04-30"
-        },
-        {
-          "name": "FRENCH, Sarah Louise Caroline",
-          "role": "llp-member",
-          "appointed": "2020-05-01",
-          "resigned": "2021-04-30"
-        },
-        {
-          "name": "GALLOWAY, Janet Elizabeth",
-          "role": "llp-member",
-          "appointed": "2013-05-08",
-          "resigned": "2023-04-30"
-        },
-        {
-          "name": "GRANT, Mark Stephen",
-          "role": "llp-member",
-          "appointed": "2019-11-01",
-          "resigned": "2022-01-07"
-        },
-        {
-          "name": "HATCHARD, John Rayner",
-          "role": "llp-member",
-          "appointed": "2008-02-28",
-          "resigned": "2019-04-30"
-        },
-        {
-          "name": "HEALD, Fiona Louise",
-          "role": "llp-member",
-          "appointed": "2019-11-01",
-          "resigned": "2023-04-30"
-        },
-        {
-          "name": "JEFFERY, Peter Robin",
-          "role": "llp-member",
-          "appointed": "2008-02-28",
-          "resigned": "2023-04-30"
-        },
-        {
-          "name": "KHASRIYA, Amandeep Kaur",
-          "role": "llp-member",
-          "appointed": "2023-05-01",
-          "resigned": "2024-04-30"
-        },
-        {
-          "name": "LLOYD, Alison Jane",
-          "role": "llp-member",
-          "appointed": "2019-11-07",
-          "resigned": "2023-04-30"
-        },
-        {
-          "name": "MARSDEN, Christopher Daniel",
-          "role": "llp-member",
-          "appointed": "2019-11-01",
-          "resigned": "2025-04-30"
-        },
-        {
-          "name": "MATTHEWS, Timothy William",
-          "role": "llp-member",
-          "appointed": "2020-05-01",
-          "resigned": "2023-04-30"
-        },
-        {
-          "name": "MIDDLEHURST, Thomas",
-          "role": "llp-member",
-          "appointed": "2019-11-01",
-          "resigned": "2022-10-11"
-        },
-        {
-          "name": "MILTON, Alexandra Kirsty",
-          "role": "llp-member",
-          "appointed": "2020-05-01",
-          "resigned": "2024-12-31"
-        },
-        {
-          "name": "NASH, Jacqueline Alice",
-          "role": "llp-member",
-          "appointed": "2019-11-01",
-          "resigned": "2022-02-28"
-        },
-        {
-          "name": "OSGOOD, Mark Richard",
-          "role": "llp-member",
-          "appointed": "2009-05-01",
-          "resigned": "2024-04-30"
-        },
-        {
-          "name": "PANESAR, Manmohan Singh",
-          "role": "llp-member",
-          "appointed": "2019-11-01",
-          "resigned": "2021-01-31"
-        },
-        {
-          "name": "PETERS, Jolanda Joanna Beatrice",
-          "role": "llp-member",
-          "appointed": "2019-11-01",
-          "resigned": "2024-04-30"
-        },
-        {
-          "name": "SHERBROOKE, Archie John",
-          "role": "llp-member",
-          "appointed": "2019-05-01",
-          "resigned": "2022-09-30"
-        },
-        {
-          "name": "SPARROW, Rebecca Simone",
-          "role": "llp-member",
-          "appointed": "2021-08-23",
-          "resigned": "2023-12-31"
-        },
-        {
-          "name": "SPRING, Amanda Kelly",
-          "role": "llp-member",
-          "appointed": "2021-05-01",
-          "resigned": "2024-03-31"
-        },
-        {
-          "name": "SPRING, Timothy Donald Morley",
-          "role": "llp-member",
-          "appointed": "2012-05-01",
-          "resigned": "2020-04-30"
-        },
-        {
-          "name": "STARKIE, Helen Margaret",
-          "role": "llp-member",
-          "appointed": "2008-02-28",
-          "resigned": "2010-04-30"
-        },
-        {
-          "name": "THOMPSON, David Clinton",
-          "role": "llp-member",
-          "appointed": "2008-02-28",
-          "resigned": "2019-04-30"
-        },
-        {
-          "name": "WALDREN, Daisy Alexandra",
-          "role": "llp-member",
-          "appointed": "2020-05-01",
-          "resigned": "2022-01-07"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Nayyars Solicitors Limited": {
@@ -3688,16 +1117,10 @@
     },
     "ch_number": "10205341",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "PARMAR, Shailesh",
-          "role": "director",
-          "appointed": "2016-05-28"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Petherbridge Bassra": {
@@ -3719,58 +1142,10 @@
     },
     "ch_number": "OC372359",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "BATTY, Sarah",
-          "role": "llp-member",
-          "appointed": "2012-02-10"
-        },
-        {
-          "name": "HUSSAIN, Tariq Parvez",
-          "role": "llp-designated-member",
-          "appointed": "2012-02-10"
-        },
-        {
-          "name": "JONES, Benjamin Graham",
-          "role": "llp-member",
-          "appointed": "2012-02-10"
-        },
-        {
-          "name": "JULIAN, Lisa",
-          "role": "llp-designated-member",
-          "appointed": "2012-02-10"
-        },
-        {
-          "name": "PETHERBRIDGE, Alan",
-          "role": "llp-designated-member",
-          "appointed": "2012-02-10"
-        },
-        {
-          "name": "ROOPRAI, Jagtar Singh",
-          "role": "llp-designated-member",
-          "appointed": "2012-02-10"
-        },
-        {
-          "name": "SINGH, Rachim",
-          "role": "llp-designated-member",
-          "appointed": "2012-02-10"
-        },
-        {
-          "name": "SWEENEY, Philip James Richard",
-          "role": "llp-designated-member",
-          "appointed": "2012-02-10"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "HUSTLER, Simon",
-          "role": "llp-member",
-          "appointed": "2012-02-10",
-          "resigned": "2012-10-12"
-        }
-      ],
-      "company_status": "dissolved",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Pilgrim Hope Solicitors": {
@@ -3792,21 +1167,10 @@
     },
     "ch_number": "09863873",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "TORR, Robin Ian",
-          "role": "secretary",
-          "appointed": "2015-11-09"
-        },
-        {
-          "name": "TORR, Robin Ian",
-          "role": "director",
-          "appointed": "2015-11-09"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Progressive Solicitors Limited": {
@@ -3828,34 +1192,10 @@
     },
     "ch_number": "10361139",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "HARVEY, Christopher",
-          "role": "director",
-          "appointed": "2016-09-21"
-        },
-        {
-          "name": "WOOD, Hannah Rachael",
-          "role": "director",
-          "appointed": "2016-09-21"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "KELLEHER, Jemma",
-          "role": "director",
-          "appointed": "2016-09-06",
-          "resigned": "2024-10-14"
-        },
-        {
-          "name": "LIMBADA, Ismail Yakub",
-          "role": "director",
-          "appointed": "2016-09-06",
-          "resigned": "2020-07-13"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Prowse Phillips Law Limited": {
@@ -3877,21 +1217,10 @@
     },
     "ch_number": "09483512",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "PHILLIPS, Nicolai John",
-          "role": "director",
-          "appointed": "2015-03-11"
-        },
-        {
-          "name": "PROWSE, Mark Andrew",
-          "role": "director",
-          "appointed": "2015-03-11"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "R M Legal Solicitors LLP": {
@@ -3913,56 +1242,10 @@
     },
     "ch_number": "OC353895",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "ARJINA, Muntaha",
-          "role": "llp-designated-member",
-          "appointed": "2020-10-01"
-        },
-        {
-          "name": "FENSOME, Keith Andrew",
-          "role": "llp-designated-member",
-          "appointed": "2021-01-13"
-        },
-        {
-          "name": "MOZUMDER, Russell Shahed",
-          "role": "llp-designated-member",
-          "appointed": "2010-04-07"
-        },
-        {
-          "name": "TAAK, Jojar Heera Singh",
-          "role": "llp-designated-member",
-          "appointed": "2021-01-04"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "EVANS, Jason",
-          "role": "llp-designated-member",
-          "appointed": "2019-06-14",
-          "resigned": "2020-06-30"
-        },
-        {
-          "name": "JOHN, Rume",
-          "role": "llp-designated-member",
-          "appointed": "2010-04-07",
-          "resigned": "2018-12-20"
-        },
-        {
-          "name": "LEE, David",
-          "role": "llp-designated-member",
-          "appointed": "2017-12-28",
-          "resigned": "2023-04-14"
-        },
-        {
-          "name": "ROBERTS, Noel Simon",
-          "role": "llp-designated-member",
-          "appointed": "2018-07-06",
-          "resigned": "2020-10-30"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "SC Law": {
@@ -4009,16 +1292,10 @@
     },
     "ch_number": "13132931",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "SHAH, Manzoor Ahmad",
-          "role": "director",
-          "appointed": "2021-01-13"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Shires Law Ltd": {
@@ -4040,16 +1317,10 @@
     },
     "ch_number": "09587000",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "DU PLESSIS, Joanne Elizabeth",
-          "role": "director",
-          "appointed": "2015-05-12"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Simper Law Ltd": {
@@ -4071,630 +1342,19 @@
     },
     "ch_number": "09950480",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "SIMPER, Kim Cherie",
-          "role": "director",
-          "appointed": "2016-01-14"
-        },
-        {
-          "name": "SMART, Victoria Lisa",
-          "role": "director",
-          "appointed": "2019-06-01"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Slater & Gordon (UK) LLP": {
     "ch_number": "OC371153",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "SLATER & GORDON (UK) 1 LIMITED",
-          "role": "corporate-llp-designated-member",
-          "appointed": "2012-01-03"
-        },
-        {
-          "name": "SLATER AND GORDON UK LIMITED",
-          "role": "corporate-llp-designated-member",
-          "appointed": "2018-07-17"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "AINSCOUGH, Jennifer",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-08-30"
-        },
-        {
-          "name": "ALLEN, Katherine",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2016-05-26"
-        },
-        {
-          "name": "ALLEN, Simon John Nicholas",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2015-01-01"
-        },
-        {
-          "name": "BARNFATHER, Anthony Paul",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2015-02-13"
-        },
-        {
-          "name": "BELL, James Scott",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-05-11"
-        },
-        {
-          "name": "BELL, Rebecca Anne",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2016-05-12"
-        },
-        {
-          "name": "BERIC WEST, Angela",
-          "role": "llp-member",
-          "appointed": "2013-08-16",
-          "resigned": "2017-03-31"
-        },
-        {
-          "name": "BERRY, Joanne",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2017-01-31"
-        },
-        {
-          "name": "BLACK, Richard Anthony",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-08-31"
-        },
-        {
-          "name": "BLACKBURN, Samantha Margery",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2017-06-30"
-        },
-        {
-          "name": "BOWTWELL, Harriet",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-08-31"
-        },
-        {
-          "name": "BRADLEY, Damian Philip",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2017-05-31"
-        },
-        {
-          "name": "CAMPBELL, Clare Ellen",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2014-07-23"
-        },
-        {
-          "name": "CARLTON, James Charles Hope",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2012-07-31"
-        },
-        {
-          "name": "CHALCRAFT, Stephen Michael",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2017-02-16"
-        },
-        {
-          "name": "CHANDLER, Pauline Anne",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2017-02-28"
-        },
-        {
-          "name": "CHEETHAM, Paul Mark",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2014-10-10"
-        },
-        {
-          "name": "CLARKE-WILLIAMS, Jeremy Charles",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-02-10"
-        },
-        {
-          "name": "CLAXSON, Matthew",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2016-08-22"
-        },
-        {
-          "name": "CLAYTON, Matthew",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2016-08-24"
-        },
-        {
-          "name": "COCHRAN, Alasdair Stuart",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-04-04"
-        },
-        {
-          "name": "COHEN, Ian Stuart",
-          "role": "llp-member",
-          "appointed": "2013-08-30",
-          "resigned": "2017-05-31"
-        },
-        {
-          "name": "COLLIER, Bridget",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2016-02-01"
-        },
-        {
-          "name": "COLLINS, Alan",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2014-12-12"
-        },
-        {
-          "name": "COLLINS, Nicolas Giles",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-08-31"
-        },
-        {
-          "name": "COOLICAN, Timothy Simon",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-08-31"
-        },
-        {
-          "name": "COOPER, Edward James Oswald",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-05-31"
-        },
-        {
-          "name": "COOPER, Jane",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2016-03-03"
-        },
-        {
-          "name": "COPSON, Richard Neil",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2017-08-31"
-        },
-        {
-          "name": "COWELL, Elizabeth Claire",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2017-08-31"
-        },
-        {
-          "name": "CRABTREE, Richard Mark",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2017-03-24"
-        },
-        {
-          "name": "CROOK, Stephen Neil",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2017-09-30"
-        },
-        {
-          "name": "DANIELS, Paul Anthony Theodore",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-03-31"
-        },
-        {
-          "name": "DARWENT, Beverley Ann",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2017-01-31"
-        },
-        {
-          "name": "DAURKA, Kiran Kaur",
-          "role": "llp-member",
-          "appointed": "2014-01-01",
-          "resigned": "2016-03-31"
-        },
-        {
-          "name": "DAVIES, Ruth Elizabeth",
-          "role": "llp-member",
-          "appointed": "2013-11-30",
-          "resigned": "2015-12-17"
-        },
-        {
-          "name": "DAWSON, Claire",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2016-12-31"
-        },
-        {
-          "name": "DIMBLYLOW, Emma Kate",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2015-02-06"
-        },
-        {
-          "name": "DOBBS, Angela",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2015-12-31"
-        },
-        {
-          "name": "DRAKE, Geoff Robert",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2016-03-15"
-        },
-        {
-          "name": "DUX, Elizabeth Emma",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2016-09-05"
-        },
-        {
-          "name": "EDWARDS, Gill",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2016-04-29"
-        },
-        {
-          "name": "EDWARDS, Miriam Ruth",
-          "role": "llp-member",
-          "appointed": "2013-08-16",
-          "resigned": "2015-08-24"
-        },
-        {
-          "name": "EVANS, Matthew David",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2017-03-19"
-        },
-        {
-          "name": "FIELD, Jacqueline",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2015-12-11"
-        },
-        {
-          "name": "FLETCHER, Ian Roderick",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2013-03-28"
-        },
-        {
-          "name": "FOUNTAIN, Lisa",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2017-03-31"
-        },
-        {
-          "name": "FOWLIE, Kenneth John",
-          "role": "llp-designated-member",
-          "appointed": "2012-01-03",
-          "resigned": "2012-04-30"
-        },
-        {
-          "name": "FOX, Jocelyn Alenne",
-          "role": "llp-member",
-          "appointed": "2014-10-01",
-          "resigned": "2017-03-31"
-        },
-        {
-          "name": "FREEBURN, Susan",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-08-31"
-        },
-        {
-          "name": "GAFFNEY, Richard Desmond Travers",
-          "role": "llp-member",
-          "appointed": "2013-08-16",
-          "resigned": "2017-05-31"
-        },
-        {
-          "name": "GERAGHTY, Richard Mark",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-09-12"
-        },
-        {
-          "name": "GIBSON, Rose",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2015-11-27"
-        },
-        {
-          "name": "GLANVILLE, Paul",
-          "role": "llp-member",
-          "appointed": "2013-11-30",
-          "resigned": "2016-06-03"
-        },
-        {
-          "name": "GODWIN, Nicholas James",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2017-04-05"
-        },
-        {
-          "name": "GOODWIN, Tulser John",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2017-03-15"
-        },
-        {
-          "name": "GRAHAM, Tracey Ann",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2015-02-27"
-        },
-        {
-          "name": "HALLAM, Tristan George",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-08-25"
-        },
-        {
-          "name": "HAMILTON, Julia Claire",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2017-02-28"
-        },
-        {
-          "name": "HAMMOND, Katherine",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2015-12-31"
-        },
-        {
-          "name": "HARDACRE, Michael Kenneth",
-          "role": "llp-member",
-          "appointed": "2014-01-14",
-          "resigned": "2017-08-31"
-        },
-        {
-          "name": "HARMEL, Samir",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2016-03-24"
-        },
-        {
-          "name": "HARRISON, Kim Louise",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2017-01-31"
-        },
-        {
-          "name": "HARVEY, Lorraine",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-08-31"
-        },
-        {
-          "name": "HATZER, Mark",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2016-07-25"
-        },
-        {
-          "name": "HAWKSWORTH, Emma Jane",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-05-31"
-        },
-        {
-          "name": "HEALY, Deirdre Elizabeth",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2014-10-31"
-        },
-        {
-          "name": "HEPWORTH, Carolann",
-          "role": "llp-member",
-          "appointed": "2013-11-30",
-          "resigned": "2016-05-12"
-        },
-        {
-          "name": "HERBERT, Gary",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2015-06-12"
-        },
-        {
-          "name": "HERBERT, Polly Anna",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2016-05-09"
-        },
-        {
-          "name": "HILL, Stephen John",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2017-05-31"
-        },
-        {
-          "name": "HITCHEN, Gillian Jane",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2017-05-30"
-        },
-        {
-          "name": "HOLROYD, Nicholas Bell",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2015-06-30"
-        },
-        {
-          "name": "HOLT, Emma Elisabeth",
-          "role": "llp-designated-member",
-          "appointed": "2014-01-14",
-          "resigned": "2018-07-17"
-        },
-        {
-          "name": "HOPE, Brendan Michael",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2016-08-15"
-        },
-        {
-          "name": "HOPWOOD, Carol Elizabeth",
-          "role": "llp-member",
-          "appointed": "2013-08-30",
-          "resigned": "2017-05-31"
-        },
-        {
-          "name": "HORTON, Gillian Claire",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2016-03-07"
-        },
-        {
-          "name": "HOWARD, Clive Philip",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-03-31"
-        },
-        {
-          "name": "HURLEY, Caoilionn",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2013-03-31"
-        },
-        {
-          "name": "HUSSAIN, Fozia",
-          "role": "llp-member",
-          "appointed": "2013-11-30",
-          "resigned": "2016-06-03"
-        },
-        {
-          "name": "HUTCHINGS, John",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2016-03-31"
-        },
-        {
-          "name": "INGRAM, Scott Glenday",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-05-31"
-        },
-        {
-          "name": "INSKIP, Kristofer Guy",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2017-08-18"
-        },
-        {
-          "name": "JACKSON, Carol Gay",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2016-06-15"
-        },
-        {
-          "name": "JACKSON, Paul",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2016-04-07"
-        },
-        {
-          "name": "JAMES, Martin",
-          "role": "llp-designated-member",
-          "appointed": "2013-09-28",
-          "resigned": "2018-07-17"
-        },
-        {
-          "name": "JOHNSON, Deborah Susan",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2017-03-31"
-        },
-        {
-          "name": "JONES, Stephen Lindsay",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2015-10-30"
-        },
-        {
-          "name": "KEITH, Jenny",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2017-05-31"
-        },
-        {
-          "name": "KENNEDY, Michael Barnaby Roland",
-          "role": "llp-member",
-          "appointed": "2014-02-14",
-          "resigned": "2016-03-31"
-        },
-        {
-          "name": "KERR, Alison Mary",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2016-07-03"
-        },
-        {
-          "name": "KINSELLA, Jonathan Neil",
-          "role": "llp-designated-member",
-          "appointed": "2012-04-30",
-          "resigned": "2016-02-05"
-        },
-        {
-          "name": "KITSON, Paul John",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2017-03-16"
-        },
-        {
-          "name": "LANGTON, Richard Crispian",
-          "role": "llp-member",
-          "appointed": "2012-04-30",
-          "resigned": "2016-12-31"
-        },
-        {
-          "name": "LATNER, Michael",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2016-05-25"
-        },
-        {
-          "name": "LAWSON, Alan",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2017-03-31"
-        },
-        {
-          "name": "LEE, Daniel",
-          "role": "llp-member",
-          "appointed": "2013-09-28",
-          "resigned": "2016-08-08"
-        },
-        {
-          "name": "WEBBER, John Martin",
-          "role": "llp-designated-member",
-          "appointed": "2012-04-30",
-          "resigned": "2018-07-17"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Solicitor Direct": {
@@ -4716,26 +1376,10 @@
     },
     "ch_number": "08711504",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "FORREST, Alexander Bradshaw",
-          "role": "director",
-          "appointed": "2022-06-14"
-        },
-        {
-          "name": "FORREST, Derek Bradshaw",
-          "role": "director",
-          "appointed": "2013-09-30"
-        },
-        {
-          "name": "MOON, Anne-Marie",
-          "role": "director",
-          "appointed": "2019-11-04"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Starck Uberol Solicitors & Advocates": {
@@ -4757,35 +1401,10 @@
     },
     "ch_number": "11392900",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "CHOWDHURY, Shajeda Khanom",
-          "role": "director",
-          "appointed": "2024-03-25"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "AMIN, Mohamed Shaffiq",
-          "role": "director",
-          "appointed": "2019-03-25",
-          "resigned": "2020-12-31"
-        },
-        {
-          "name": "HASHAN, Mohammad Kamrul",
-          "role": "director",
-          "appointed": "2019-11-25",
-          "resigned": "2024-03-28"
-        },
-        {
-          "name": "WAHID, Zahid Hussain",
-          "role": "director",
-          "appointed": "2018-06-01",
-          "resigned": "2019-04-03"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "TJL Solicitors LLP": {
@@ -4807,34 +1426,10 @@
     },
     "ch_number": "OC367616",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "SAUL, Michael Geoffrey Thomas",
-          "role": "llp-designated-member",
-          "appointed": "2011-08-31"
-        },
-        {
-          "name": "SUTTON, Russell James",
-          "role": "llp-designated-member",
-          "appointed": "2011-08-31"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "CS DIRECTORS LIMITED",
-          "role": "corporate-llp-designated-member",
-          "appointed": "2011-08-26",
-          "resigned": "2011-08-31"
-        },
-        {
-          "name": "CS SECRETARIES LIMITED",
-          "role": "corporate-llp-designated-member",
-          "appointed": "2011-08-26",
-          "resigned": "2011-08-31"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Taylor Rose Solicitors": {
@@ -4856,79 +1451,10 @@
     },
     "ch_number": "09673088",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "BANFIELD, Simon Jeremy",
-          "role": "director",
-          "appointed": "2015-09-09"
-        },
-        {
-          "name": "COPSEY, Louisa Jane",
-          "role": "secretary",
-          "appointed": "2024-02-28"
-        },
-        {
-          "name": "HOE, Matthew David",
-          "role": "director",
-          "appointed": "2015-09-09"
-        },
-        {
-          "name": "JAGGARD, Adrian John George",
-          "role": "director",
-          "appointed": "2015-07-06"
-        },
-        {
-          "name": "JAGGARD, Antony",
-          "role": "director",
-          "appointed": "2015-07-06"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "BERRY, Nigel Andrew",
-          "role": "director",
-          "appointed": "2019-10-01",
-          "resigned": "2023-09-29"
-        },
-        {
-          "name": "BRYANT, John Ashley",
-          "role": "secretary",
-          "appointed": "2015-10-30",
-          "resigned": "2024-02-28"
-        },
-        {
-          "name": "DAVIS, Paul Allan",
-          "role": "director",
-          "appointed": "2015-09-09",
-          "resigned": "2019-07-23"
-        },
-        {
-          "name": "FRASER, Murray Richard",
-          "role": "director",
-          "appointed": "2018-12-07",
-          "resigned": "2024-04-08"
-        },
-        {
-          "name": "MCMILLAN, John Gordon Sandford",
-          "role": "director",
-          "appointed": "2020-05-19",
-          "resigned": "2023-08-14"
-        },
-        {
-          "name": "O'BRIEN, Brendan Christopher",
-          "role": "director",
-          "appointed": "2018-12-07",
-          "resigned": "2019-11-30"
-        },
-        {
-          "name": "WEBB, Michael David",
-          "role": "director",
-          "appointed": "2015-09-09",
-          "resigned": "2018-01-31"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "The Claims Partnership": {
@@ -4950,71 +1476,10 @@
     },
     "ch_number": "03879126",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "WELCH, Christopher Jonathan",
-          "role": "director",
-          "appointed": "2025-08-20"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "DIAS, James Curry",
-          "role": "director",
-          "appointed": "2008-09-25",
-          "resigned": "2010-04-07"
-        },
-        {
-          "name": "JL NOMINEES ONE LIMITED",
-          "role": "corporate-nominee-director",
-          "appointed": "1999-11-17",
-          "resigned": "1999-11-17"
-        },
-        {
-          "name": "JL NOMINEES TWO LIMITED",
-          "role": "corporate-nominee-secretary",
-          "appointed": "1999-11-17",
-          "resigned": "1999-11-17"
-        },
-        {
-          "name": "MCDINE, Martyn Peter",
-          "role": "director",
-          "appointed": "2000-03-01",
-          "resigned": "2000-05-19"
-        },
-        {
-          "name": "RIDLEY, Philip Ian",
-          "role": "director",
-          "appointed": "2010-04-07",
-          "resigned": "2025-08-20"
-        },
-        {
-          "name": "SIMMS, Ronald",
-          "role": "director",
-          "appointed": "1999-11-17",
-          "resigned": "2000-05-19"
-        },
-        {
-          "name": "STANGER-LEATHES, Angela Ellen",
-          "role": "secretary",
-          "appointed": "1999-11-17",
-          "resigned": "2008-09-25"
-        },
-        {
-          "name": "STANGER-LEATHES, Christopher John",
-          "role": "director",
-          "appointed": "2000-05-19",
-          "resigned": "2008-09-25"
-        },
-        {
-          "name": "WALKER, Andrew Kirk",
-          "role": "director",
-          "appointed": "2008-09-25",
-          "resigned": "2010-04-07"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Thorntons Law LLP": {
@@ -5036,583 +1501,19 @@
     },
     "ch_number": "SO300381",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "ADAM, Michelle",
-          "role": "llp-member",
-          "appointed": "2016-06-01"
-        },
-        {
-          "name": "ADAMS, Paul",
-          "role": "llp-member",
-          "appointed": "2023-12-01"
-        },
-        {
-          "name": "ALLAN, Christopher David",
-          "role": "llp-designated-member",
-          "appointed": "2008-06-01"
-        },
-        {
-          "name": "ALLAN, Hugo John",
-          "role": "llp-member",
-          "appointed": "2016-01-05"
-        },
-        {
-          "name": "ANDERSON, Rachel",
-          "role": "llp-member",
-          "appointed": "2025-01-01"
-        },
-        {
-          "name": "BAILLIE, Stewart Alastair James",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "BEATTIE, Robin Malcolm Dickson",
-          "role": "llp-member",
-          "appointed": "2021-07-01"
-        },
-        {
-          "name": "BUCHAN, Lorna",
-          "role": "llp-member",
-          "appointed": "2025-10-01"
-        },
-        {
-          "name": "BUCHANAN, Gillian Coutts",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25"
-        },
-        {
-          "name": "BYRNE, Christopher",
-          "role": "llp-member",
-          "appointed": "2017-06-01"
-        },
-        {
-          "name": "CAMPBELL, Kim",
-          "role": "llp-member",
-          "appointed": "2023-06-01"
-        },
-        {
-          "name": "CARR, Stephanie Margaret Mary",
-          "role": "llp-member",
-          "appointed": "2023-05-24"
-        },
-        {
-          "name": "COUTTS, Morna Jane",
-          "role": "llp-designated-member",
-          "appointed": "2017-06-01"
-        },
-        {
-          "name": "CROMAN, Ruth Catriona",
-          "role": "llp-designated-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "DEWAR, Deborah Campbell",
-          "role": "llp-member",
-          "appointed": "2023-06-01"
-        },
-        {
-          "name": "DICKSON, Graeme Ross Campbell",
-          "role": "llp-member",
-          "appointed": "2023-01-01"
-        },
-        {
-          "name": "DISHINGTON, Audrey Anne",
-          "role": "llp-designated-member",
-          "appointed": "2017-04-17"
-        },
-        {
-          "name": "DRAKE, Steven",
-          "role": "llp-member",
-          "appointed": "2021-07-01"
-        },
-        {
-          "name": "DUFF, Susan Margaret",
-          "role": "llp-member",
-          "appointed": "2016-06-01"
-        },
-        {
-          "name": "DUNLOP, Robin John Muir",
-          "role": "llp-member",
-          "appointed": "2025-06-01"
-        },
-        {
-          "name": "DUNN, Susan",
-          "role": "llp-member",
-          "appointed": "2022-07-01"
-        },
-        {
-          "name": "FELLOWS, Deborah",
-          "role": "llp-member",
-          "appointed": "2016-06-01"
-        },
-        {
-          "name": "FRANCIS, Robin James Douglas",
-          "role": "llp-member",
-          "appointed": "2019-01-01"
-        },
-        {
-          "name": "FRASER, Hannah",
-          "role": "llp-member",
-          "appointed": "2022-01-01"
-        },
-        {
-          "name": "FRASER, Ian Karlheinz",
-          "role": "llp-member",
-          "appointed": "2017-09-02"
-        },
-        {
-          "name": "GALLAGHER, Jennifer",
-          "role": "llp-member",
-          "appointed": "2025-01-06"
-        },
-        {
-          "name": "GARDINER, Christopher Peter John",
-          "role": "llp-member",
-          "appointed": "2022-07-01"
-        },
-        {
-          "name": "GIBBONS, Aimee Louise",
-          "role": "llp-member",
-          "appointed": "2022-01-01"
-        },
-        {
-          "name": "GRIMMOND, Joanne Elizabeth",
-          "role": "llp-member",
-          "appointed": "2023-05-01"
-        },
-        {
-          "name": "HAINEY, Lisa May",
-          "role": "llp-member",
-          "appointed": "2025-06-01"
-        },
-        {
-          "name": "HAMILTON, Ronald Grant",
-          "role": "llp-designated-member",
-          "appointed": "2016-06-02"
-        },
-        {
-          "name": "HANIFORD, Paul Sydney",
-          "role": "llp-member",
-          "appointed": "2023-02-01"
-        },
-        {
-          "name": "HORNE, Emma Ashley",
-          "role": "llp-member",
-          "appointed": "2022-04-01"
-        },
-        {
-          "name": "JONES, Amy Carole",
-          "role": "llp-member",
-          "appointed": "2023-06-01"
-        },
-        {
-          "name": "KEMP, Michael",
-          "role": "llp-member",
-          "appointed": "2023-01-01"
-        },
-        {
-          "name": "KINNEAR, Douglas Nelson",
-          "role": "llp-designated-member",
-          "appointed": "2014-11-01"
-        },
-        {
-          "name": "LANG, Alistair James",
-          "role": "llp-designated-member",
-          "appointed": "2014-11-01"
-        },
-        {
-          "name": "LARG, Lesley Ann",
-          "role": "llp-designated-member",
-          "appointed": "2006-06-01"
-        },
-        {
-          "name": "LAWSON, Kathleen-Erin",
-          "role": "llp-member",
-          "appointed": "2022-07-01"
-        },
-        {
-          "name": "LINDLEY, Christopher Gerald",
-          "role": "llp-member",
-          "appointed": "2011-01-01"
-        },
-        {
-          "name": "MACDONALD, Rachael Hannah",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "MACFARLANE, Jayne Agnes",
-          "role": "llp-member",
-          "appointed": "2023-02-13"
-        },
-        {
-          "name": "MACKAY, Iain Finlay Magnus",
-          "role": "llp-member",
-          "appointed": "2023-12-13"
-        },
-        {
-          "name": "MACKAY, Kenneth Richard",
-          "role": "llp-member",
-          "appointed": "2013-06-27"
-        },
-        {
-          "name": "MACKIE, Stuart Irvine",
-          "role": "llp-member",
-          "appointed": "2021-07-01"
-        },
-        {
-          "name": "MACPHERSON, Clare Susan",
-          "role": "llp-designated-member",
-          "appointed": "2005-06-01"
-        },
-        {
-          "name": "MANNION, Gary",
-          "role": "llp-member",
-          "appointed": "2021-01-01"
-        },
-        {
-          "name": "MATHIESON, David",
-          "role": "llp-member",
-          "appointed": "2005-06-01"
-        },
-        {
-          "name": "MATTEO, Ricardo",
-          "role": "llp-member",
-          "appointed": "2025-04-22"
-        },
-        {
-          "name": "MAXFIELD, Loretta",
-          "role": "llp-member",
-          "appointed": "2019-01-01"
-        },
-        {
-          "name": "MCBEAN, Gordon Graham",
-          "role": "llp-designated-member",
-          "appointed": "2005-06-01"
-        },
-        {
-          "name": "MCCAFFERTY, Nicola Louise",
-          "role": "llp-member",
-          "appointed": "2022-01-01"
-        },
-        {
-          "name": "MCCLELLAND, Noele Gillian",
-          "role": "llp-designated-member",
-          "appointed": "2005-06-01"
-        },
-        {
-          "name": "MCGILL, Katherine Muriel",
-          "role": "llp-member",
-          "appointed": "2017-09-02"
-        },
-        {
-          "name": "MCINTYRE, Janet Helen",
-          "role": "llp-designated-member",
-          "appointed": "2008-06-01"
-        },
-        {
-          "name": "MCMONAGLE, Liam James",
-          "role": "llp-designated-member",
-          "appointed": "2011-06-01"
-        },
-        {
-          "name": "MEARNS, Anne Lesley",
-          "role": "llp-member",
-          "appointed": "2017-09-02"
-        },
-        {
-          "name": "METCALF, Lucy Ann",
-          "role": "llp-member",
-          "appointed": "2021-01-01"
-        },
-        {
-          "name": "MILLER, Anne",
-          "role": "llp-member",
-          "appointed": "2023-01-01"
-        },
-        {
-          "name": "MILLER, Ewan Kenneth",
-          "role": "llp-designated-member",
-          "appointed": "2007-04-02"
-        },
-        {
-          "name": "MILNE, David John",
-          "role": "llp-designated-member",
-          "appointed": "2022-02-01"
-        },
-        {
-          "name": "MILNE, Scott Charles",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25"
-        },
-        {
-          "name": "MITCHELL, Sarah",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "MOIR, Kyle Frank Strachan",
-          "role": "llp-member",
-          "appointed": "2022-02-01"
-        },
-        {
-          "name": "MOORE, Jacqueline",
-          "role": "llp-member",
-          "appointed": "2024-06-01"
-        },
-        {
-          "name": "MUIR, Pamela Elizabeth",
-          "role": "llp-member",
-          "appointed": "2019-03-29"
-        },
-        {
-          "name": "PHILLIPS, John Christian",
-          "role": "llp-member",
-          "appointed": "2018-04-02"
-        },
-        {
-          "name": "PIPER, Fiona Margaret",
-          "role": "llp-member",
-          "appointed": "2026-05-12"
-        },
-        {
-          "name": "PRATT, Stephanie Elizabeth",
-          "role": "llp-member",
-          "appointed": "2021-07-01"
-        },
-        {
-          "name": "RENFREW, Bruce Norman",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25"
-        },
-        {
-          "name": "ROYDEN, Michael",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25"
-        },
-        {
-          "name": "SIMPSON, Ashley",
-          "role": "llp-member",
-          "appointed": "2025-10-01"
-        },
-        {
-          "name": "SMART, John Douglas",
-          "role": "llp-member",
-          "appointed": "2023-11-17"
-        },
-        {
-          "name": "STEWART, Kirsty",
-          "role": "llp-member",
-          "appointed": "2023-06-01"
-        },
-        {
-          "name": "STUART, Sarah Duncan",
-          "role": "llp-member",
-          "appointed": "2026-01-05"
-        },
-        {
-          "name": "SUTHERLAND, Sandra Mary",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25"
-        },
-        {
-          "name": "THOMAS, Gary George",
-          "role": "llp-designated-member",
-          "appointed": "2019-03-29"
-        },
-        {
-          "name": "WELLS, Michael Gavin",
-          "role": "llp-member",
-          "appointed": "2025-06-01"
-        },
-        {
-          "name": "YOUNG, Jennifer Evelyn",
-          "role": "llp-member",
-          "appointed": "2026-01-05"
-        },
-        {
-          "name": "YOUNG, Simone Gabriella",
-          "role": "llp-member",
-          "appointed": "2025-06-18"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "BARCLAY, Nicholas",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2023-05-31"
-        },
-        {
-          "name": "BARR, Elizabeth Margaret",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2015-05-31"
-        },
-        {
-          "name": "BLAIR, John Michael Greene",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2012-05-31"
-        },
-        {
-          "name": "BRAND, Stephen John",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2018-05-31"
-        },
-        {
-          "name": "BRYMER, Stewart, Prof",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2009-06-30"
-        },
-        {
-          "name": "CUNNINGHAM, Neil Gillies",
-          "role": "llp-designated-member",
-          "appointed": "2008-06-01",
-          "resigned": "2008-09-30"
-        },
-        {
-          "name": "DUNLOP, George John Muir",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2019-05-31"
-        },
-        {
-          "name": "ETHERINGTON, David Murray",
-          "role": "llp-designated-member",
-          "appointed": "2013-11-04",
-          "resigned": "2025-07-18"
-        },
-        {
-          "name": "FARQUHAR, Malcolm Robert Pirie",
-          "role": "llp-designated-member",
-          "appointed": "2005-06-01",
-          "resigned": "2019-02-22"
-        },
-        {
-          "name": "GRAHAM, Colin Thomas",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2025-05-31"
-        },
-        {
-          "name": "GRAY, Kenneth Whitton",
-          "role": "llp-designated-member",
-          "appointed": "2014-11-01",
-          "resigned": "2015-07-03"
-        },
-        {
-          "name": "HUNT, Andrew",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2009-05-31"
-        },
-        {
-          "name": "LEITH, Alexander Henry, John",
-          "role": "llp-designated-member",
-          "appointed": "2014-11-01",
-          "resigned": "2017-03-14"
-        },
-        {
-          "name": "MCDONALD, Alexander Francis",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2008-05-31"
-        },
-        {
-          "name": "MCKEOWN, Anne Janette",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2024-05-31"
-        },
-        {
-          "name": "MELVILLE, Lynn",
-          "role": "llp-designated-member",
-          "appointed": "2014-11-01",
-          "resigned": "2016-09-30"
-        },
-        {
-          "name": "NICOL, Craig Orr",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2022-05-31"
-        },
-        {
-          "name": "REID, Derek James",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2008-05-31"
-        },
-        {
-          "name": "ROBERTSON, John Stewart",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2017-06-01"
-        },
-        {
-          "name": "ROSE, David Geddes",
-          "role": "llp-designated-member",
-          "appointed": "2004-05-25",
-          "resigned": "2010-05-31"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "True Personal Injury Solicitors": {
     "ch_number": "OC354858",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "TAYLOR, Michael",
-          "role": "llp-designated-member",
-          "appointed": "2010-05-12"
-        },
-        {
-          "name": "VOLUME RESOURCES LIMITED",
-          "role": "corporate-llp-designated-member",
-          "appointed": "2010-07-01"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "GREEN, David Robert",
-          "role": "llp-designated-member",
-          "appointed": "2010-05-12",
-          "resigned": "2016-11-21"
-        },
-        {
-          "name": "JOHN, Ceri Richard",
-          "role": "llp-designated-member",
-          "appointed": "2010-05-12",
-          "resigned": "2010-05-12"
-        },
-        {
-          "name": "MERCER, Peter David",
-          "role": "llp-designated-member",
-          "appointed": "2010-05-12",
-          "resigned": "2013-06-29"
-        },
-        {
-          "name": "SEARCH DIRECT FORMATIONS LIMITED",
-          "role": "corporate-llp-designated-member",
-          "appointed": "2010-05-12",
-          "resigned": "2010-05-12"
-        },
-        {
-          "name": "WALKER, John Charles",
-          "role": "llp-designated-member",
-          "appointed": "2010-05-12",
-          "resigned": "2016-11-30"
-        }
-      ],
-      "company_status": "liquidation",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Tyler Hoffman Solicitors": {
@@ -5634,23 +1535,10 @@
     },
     "ch_number": "10355130",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "AKBAR, Akef Mohammed",
-          "role": "director",
-          "appointed": "2016-10-17"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "MAHROOF, Aman",
-          "role": "director",
-          "appointed": "2016-09-01",
-          "resigned": "2019-04-16"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Veritas Solicitors": {
@@ -5697,16 +1585,10 @@
     },
     "ch_number": "13931060",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "HANIF, Lubna",
-          "role": "director",
-          "appointed": "2022-02-22"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Watkins & Gunn": {
@@ -5728,50 +1610,10 @@
     },
     "ch_number": "13198809",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "GUSCOTT, Lisa Joanne",
-          "role": "director",
-          "appointed": "2021-02-12"
-        },
-        {
-          "name": "ROBERTS, Kate",
-          "role": "director",
-          "appointed": "2021-05-27"
-        },
-        {
-          "name": "THOMAS, Clive Roger",
-          "role": "director",
-          "appointed": "2021-02-12"
-        },
-        {
-          "name": "WELLINGTON, Jonathan Mark",
-          "role": "director",
-          "appointed": "2021-02-12"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "HUGHES, Sophie Caroline",
-          "role": "director",
-          "appointed": "2021-02-12",
-          "resigned": "2025-05-29"
-        },
-        {
-          "name": "IMPERATO, John Michael",
-          "role": "director",
-          "appointed": "2021-02-12",
-          "resigned": "2024-01-01"
-        },
-        {
-          "name": "O'BRIEN, Lucy Therese",
-          "role": "director",
-          "appointed": "2024-01-01",
-          "resigned": "2025-09-05"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "ltd"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Wellers": {
@@ -5793,63 +1635,19 @@
     },
     "ch_number": "OC350170",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "AJS WELLERS LIMITED",
-          "role": "corporate-llp-designated-member",
-          "appointed": "2010-02-01"
-        },
-        {
-          "name": "MARTIN, Paul John",
-          "role": "llp-member",
-          "appointed": "2010-02-01"
-        },
-        {
-          "name": "SUMMERS, Anthony John",
-          "role": "llp-designated-member",
-          "appointed": "2009-11-18"
-        },
-        {
-          "name": "TOAL, Lorraine Clare",
-          "role": "llp-member",
-          "appointed": "2016-10-01"
-        },
-        {
-          "name": "WELLERS STAFF LIMITED",
-          "role": "corporate-llp-member",
-          "appointed": "2010-02-01"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "SCOTT, Stephen David",
-          "role": "llp-designated-member",
-          "appointed": "2009-11-18",
-          "resigned": "2020-09-30"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Wheelers LLP": {
     "ch_number": "15779401",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "WHEELER, Corben Lewis",
-          "role": "director",
-          "appointed": "2024-06-14"
-        },
-        {
-          "name": "WHEELER, Lawrence John",
-          "role": "director",
-          "appointed": "2024-09-01"
-        }
-      ],
+      "active_officers": [],
       "resigned_officers": [],
-      "company_status": "active",
-      "company_type": "ltd"
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Wilkin Chapman LLP": {
@@ -5871,536 +1669,10 @@
     },
     "ch_number": "OC343261",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "ADAMS, Sarah Kathryn",
-          "role": "llp-member",
-          "appointed": "2023-12-04"
-        },
-        {
-          "name": "ARCHER, Lesley Adele",
-          "role": "llp-member",
-          "appointed": "2009-06-01"
-        },
-        {
-          "name": "BAILEY, Julie Marie",
-          "role": "llp-member",
-          "appointed": "2021-10-25"
-        },
-        {
-          "name": "BAKER, Jonathan",
-          "role": "llp-member",
-          "appointed": "2020-08-10"
-        },
-        {
-          "name": "BARTON, Helen",
-          "role": "llp-member",
-          "appointed": "2023-01-09"
-        },
-        {
-          "name": "BENSON, Alison Louise",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "BOILEAU, Lisa Michelle",
-          "role": "llp-member",
-          "appointed": "2009-06-01"
-        },
-        {
-          "name": "BONE, Monika",
-          "role": "llp-member",
-          "appointed": "2026-01-05"
-        },
-        {
-          "name": "BOWDEN, Paul",
-          "role": "llp-member",
-          "appointed": "2018-05-01"
-        },
-        {
-          "name": "BRIGGS, Joshua Lee",
-          "role": "llp-member",
-          "appointed": "2017-11-01"
-        },
-        {
-          "name": "BUTTERFINT, Lucy",
-          "role": "llp-member",
-          "appointed": "2019-10-16"
-        },
-        {
-          "name": "CAPES, Edward George",
-          "role": "llp-member",
-          "appointed": "2021-04-12"
-        },
-        {
-          "name": "CHRIS GROCOCK LIMITED",
-          "role": "corporate-llp-member",
-          "appointed": "2013-02-25"
-        },
-        {
-          "name": "CLAIRE PARKER LIMITED",
-          "role": "corporate-llp-member",
-          "appointed": "2013-02-25"
-        },
-        {
-          "name": "COOKE, Jennifer",
-          "role": "llp-member",
-          "appointed": "2023-07-10"
-        },
-        {
-          "name": "CRYSTAL, Chris",
-          "role": "llp-member",
-          "appointed": "2024-07-08"
-        },
-        {
-          "name": "CULLIGAN, Estelle Maria",
-          "role": "llp-member",
-          "appointed": "2022-08-15"
-        },
-        {
-          "name": "DAVIES, Katie Jacqueline",
-          "role": "llp-member",
-          "appointed": "2013-04-01"
-        },
-        {
-          "name": "DICKEN, Rachael Louise",
-          "role": "llp-designated-member",
-          "appointed": "2015-04-01"
-        },
-        {
-          "name": "DIX, Matthew Thomas George",
-          "role": "llp-designated-member",
-          "appointed": "2012-04-01"
-        },
-        {
-          "name": "DRINKALL, Chris John",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "ELLINOR, Emma Lynsey",
-          "role": "llp-member",
-          "appointed": "2020-05-11"
-        },
-        {
-          "name": "FAHY, Laura",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "FIELD, Charles Richard",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "FLANAGAN, John Paul",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "FLETCHER SHAW, Caroline Denise",
-          "role": "llp-member",
-          "appointed": "2021-12-06"
-        },
-        {
-          "name": "FRANKLIN, Neil Richard",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "FREEMAN, Roland Martin",
-          "role": "llp-member",
-          "appointed": "2020-04-07"
-        },
-        {
-          "name": "FROGSON, Richard John",
-          "role": "llp-member",
-          "appointed": "2015-01-01"
-        },
-        {
-          "name": "GILBERT, Ralph Nevil",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "GILLIATT, Elizabeth",
-          "role": "llp-member",
-          "appointed": "2013-04-01"
-        },
-        {
-          "name": "GOOLDEN, Jonathan Thornes",
-          "role": "llp-member",
-          "appointed": "2010-04-01"
-        },
-        {
-          "name": "GRAVES, Justin Nicholas",
-          "role": "llp-member",
-          "appointed": "2022-10-10"
-        },
-        {
-          "name": "GROCOCK, Christopher Richard",
-          "role": "llp-designated-member",
-          "appointed": "2009-06-01"
-        },
-        {
-          "name": "HAMILTON, Emma Claire",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "HANSON, Peter",
-          "role": "llp-member",
-          "appointed": "2013-04-15"
-        },
-        {
-          "name": "HARRIS, Catherine Elizabeth",
-          "role": "llp-member",
-          "appointed": "2014-09-01"
-        },
-        {
-          "name": "HAWKINS, Nikki Ann",
-          "role": "llp-member",
-          "appointed": "2016-08-01"
-        },
-        {
-          "name": "HENNEGAN, Steven Paul",
-          "role": "llp-member",
-          "appointed": "2017-12-01"
-        },
-        {
-          "name": "HEPPEL, Ed Peter",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "HEXTALL, David",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "HICKINGBOTTOM, Tom",
-          "role": "llp-member",
-          "appointed": "2022-04-01"
-        },
-        {
-          "name": "HOLMES, Carl",
-          "role": "llp-member",
-          "appointed": "2025-09-22"
-        },
-        {
-          "name": "HORTON, Paul Mears",
-          "role": "llp-member",
-          "appointed": "2024-06-17"
-        },
-        {
-          "name": "HOWES, Lisa Jane",
-          "role": "llp-member",
-          "appointed": "2009-06-01"
-        },
-        {
-          "name": "IAN SHERBURN LIMITED",
-          "role": "corporate-llp-member",
-          "appointed": "2013-02-25"
-        },
-        {
-          "name": "JACQUES, Katie",
-          "role": "llp-member",
-          "appointed": "2026-05-01"
-        },
-        {
-          "name": "KEMP, Sarah Elizabeth",
-          "role": "llp-member",
-          "appointed": "2022-07-01"
-        },
-        {
-          "name": "KINNAIRD, James",
-          "role": "llp-member",
-          "appointed": "2023-11-06"
-        },
-        {
-          "name": "LANE, John Richard",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "LATHAM, Alistair Ian Manson",
-          "role": "llp-member",
-          "appointed": "2022-05-09"
-        },
-        {
-          "name": "LISA BOILEAU LIMITED",
-          "role": "corporate-llp-member",
-          "appointed": "2013-02-25"
-        },
-        {
-          "name": "LISA-JANE HOWES LIMITED",
-          "role": "corporate-llp-member",
-          "appointed": "2013-02-25"
-        },
-        {
-          "name": "MALTBY-SINKLER, Ruth Gabrielle Wainwright",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "MARK BENEDICT ROBINSON LIMITED",
-          "role": "corporate-llp-member",
-          "appointed": "2013-02-25"
-        },
-        {
-          "name": "MARSDEN, James Richard",
-          "role": "llp-member",
-          "appointed": "2018-07-06"
-        },
-        {
-          "name": "MORRISON, Gerry Linda",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "NEADLEY, Caroline",
-          "role": "llp-member",
-          "appointed": "2024-04-02"
-        },
-        {
-          "name": "OTTLEY, Adam Daniel Andrew",
-          "role": "llp-member",
-          "appointed": "2020-12-06"
-        },
-        {
-          "name": "PARKER-ROBSON, Claire Elizabeth",
-          "role": "llp-member",
-          "appointed": "2009-06-01"
-        },
-        {
-          "name": "PEARSON, Jonty Sebastian",
-          "role": "llp-member",
-          "appointed": "2014-09-01"
-        },
-        {
-          "name": "QUINN, Victoria",
-          "role": "llp-member",
-          "appointed": "2024-06-03"
-        },
-        {
-          "name": "REDING, Lucy",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "REES, Luke Owen",
-          "role": "llp-member",
-          "appointed": "2024-04-15"
-        },
-        {
-          "name": "ROBINSON, Mark",
-          "role": "llp-member",
-          "appointed": "2009-06-01"
-        },
-        {
-          "name": "SHARF, Nasim",
-          "role": "llp-designated-member",
-          "appointed": "2018-04-02"
-        },
-        {
-          "name": "SHAW, Nick",
-          "role": "llp-member",
-          "appointed": "2023-11-06"
-        },
-        {
-          "name": "SHERBURN, Ian",
-          "role": "llp-member",
-          "appointed": "2009-06-01"
-        },
-        {
-          "name": "SIMMONDS, Robin",
-          "role": "llp-member",
-          "appointed": "2026-04-01"
-        },
-        {
-          "name": "TAYLOR, Gary Ross",
-          "role": "llp-member",
-          "appointed": "2020-12-06"
-        },
-        {
-          "name": "TAYLOR, Mark",
-          "role": "llp-member",
-          "appointed": "2013-10-01"
-        },
-        {
-          "name": "TERESA THOMAS LIMITED",
-          "role": "corporate-llp-member",
-          "appointed": "2013-02-25"
-        },
-        {
-          "name": "THOMAS, Teresa Lynne",
-          "role": "llp-member",
-          "appointed": "2009-06-01"
-        },
-        {
-          "name": "WATSON, Stephen",
-          "role": "llp-member",
-          "appointed": "2026-04-01"
-        },
-        {
-          "name": "WHEELDON, Sophie Jade",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
-          "name": "WRIGHT, Katie",
-          "role": "llp-member",
-          "appointed": "2022-03-28"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "ADAMS, Michael Stephenson",
-          "role": "llp-member",
-          "appointed": "2009-11-01",
-          "resigned": "2012-03-31"
-        },
-        {
-          "name": "ADAMS, Michael Stephenson",
-          "role": "llp-member",
-          "appointed": "2009-06-01",
-          "resigned": "2010-03-31"
-        },
-        {
-          "name": "ATKIN, Edward James",
-          "role": "llp-member",
-          "appointed": "2014-01-01",
-          "resigned": "2023-02-08"
-        },
-        {
-          "name": "ATKIN, Edward James",
-          "role": "llp-member",
-          "appointed": "2013-11-01",
-          "resigned": "2013-11-01"
-        },
-        {
-          "name": "BENNETT, Flora Mary",
-          "role": "llp-member",
-          "appointed": "2010-08-01",
-          "resigned": "2024-03-31"
-        },
-        {
-          "name": "BERESFORD, David William John",
-          "role": "llp-member",
-          "appointed": "2013-07-01",
-          "resigned": "2016-09-30"
-        },
-        {
-          "name": "BREWIN, Ruth",
-          "role": "llp-member",
-          "appointed": "2010-08-01",
-          "resigned": "2020-03-31"
-        },
-        {
-          "name": "BUCKLE, David John",
-          "role": "llp-member",
-          "appointed": "2009-06-01",
-          "resigned": "2018-03-31"
-        },
-        {
-          "name": "BURN, Nigel Malcolm Edgar",
-          "role": "llp-member",
-          "appointed": "2009-06-01",
-          "resigned": "2014-03-31"
-        },
-        {
-          "name": "BURNETT, Andrew Peter",
-          "role": "llp-member",
-          "appointed": "2015-04-01",
-          "resigned": "2020-06-05"
-        },
-        {
-          "name": "BUTCHER, Tean Miles",
-          "role": "llp-member",
-          "appointed": "2009-06-01",
-          "resigned": "2022-03-31"
-        },
-        {
-          "name": "CARLTON, James Mark",
-          "role": "llp-member",
-          "appointed": "2009-06-01",
-          "resigned": "2021-03-31"
-        },
-        {
-          "name": "CHILVERS, Martyn Douglas",
-          "role": "llp-member",
-          "appointed": "2009-06-01",
-          "resigned": "2018-03-31"
-        },
-        {
-          "name": "DAY, Philip David",
-          "role": "llp-member",
-          "appointed": "2009-06-01",
-          "resigned": "2015-03-31"
-        },
-        {
-          "name": "EATOCK, Jane",
-          "role": "llp-member",
-          "appointed": "2010-08-01",
-          "resigned": "2025-03-31"
-        },
-        {
-          "name": "EKE, Russell John",
-          "role": "llp-designated-member",
-          "appointed": "2009-02-12",
-          "resigned": "2023-03-31"
-        },
-        {
-          "name": "GARWOOD, Christopher Charles",
-          "role": "llp-member",
-          "appointed": "2013-07-01",
-          "resigned": "2018-02-06"
-        },
-        {
-          "name": "HANKINSON, Ian",
-          "role": "llp-member",
-          "appointed": "2009-06-01",
-          "resigned": "2010-03-31"
-        },
-        {
-          "name": "HANSON, Leah Dominique",
-          "role": "llp-member",
-          "appointed": "2021-06-01",
-          "resigned": "2023-10-03"
-        },
-        {
-          "name": "HARBOURNE, Andrew",
-          "role": "llp-member",
-          "appointed": "2019-11-25",
-          "resigned": "2022-10-10"
-        },
-        {
-          "name": "HOLMES, Imogen Fay",
-          "role": "llp-member",
-          "appointed": "2015-04-01",
-          "resigned": "2021-05-21"
-        },
-        {
-          "name": "MCKAY, Craig John",
-          "role": "llp-designated-member",
-          "appointed": "2009-06-01",
-          "resigned": "2020-03-31"
-        },
-        {
-          "name": "WELCH, Nigel Stuart",
-          "role": "llp-designated-member",
-          "appointed": "2009-02-12",
-          "resigned": "2015-03-31"
-        },
-        {
-          "name": "WILKIN CHAPMAN MEMBERS LIMITED",
-          "role": "corporate-llp-designated-member",
-          "appointed": "2010-03-30",
-          "resigned": "2022-10-12"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Winter Solicitors": {
@@ -6422,49 +1694,10 @@
     },
     "ch_number": "OC441918",
     "ch_snapshot": {
-      "active_officers": [
-        {
-          "name": "LONGHURST, Sebastian Aron George",
-          "role": "llp-member",
-          "appointed": "2024-01-01"
-        },
-        {
-          "name": "SAVINIEN-JUDEN, Camille Isabelle Claude",
-          "role": "llp-member",
-          "appointed": "2022-04-12"
-        },
-        {
-          "name": "STEELE, Joanna Mary",
-          "role": "llp-member",
-          "appointed": "2023-10-10"
-        },
-        {
-          "name": "WILKES, Damian Michael Joseph",
-          "role": "llp-designated-member",
-          "appointed": "2022-04-12"
-        },
-        {
-          "name": "WINTER, Glenn Daniel",
-          "role": "llp-designated-member",
-          "appointed": "2022-04-12"
-        }
-      ],
-      "resigned_officers": [
-        {
-          "name": "GRIFFITHS, Paul Steven",
-          "role": "llp-member",
-          "appointed": "2023-10-09",
-          "resigned": "2024-10-04"
-        },
-        {
-          "name": "RILEY, Joseph, Captain",
-          "role": "llp-member",
-          "appointed": "2024-01-01",
-          "resigned": "2024-05-24"
-        }
-      ],
-      "company_status": "active",
-      "company_type": "llp"
+      "active_officers": [],
+      "resigned_officers": [],
+      "company_status": "",
+      "company_type": ""
     }
   },
   "Zen Law": {
