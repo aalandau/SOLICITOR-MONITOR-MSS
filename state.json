@@ -5843,14 +5843,16 @@
           "name": "WHEELER, Corben Lewis",
           "role": "director",
           "appointed": "2024-06-14"
-        },
+        }
+      ],
+      "resigned_officers": [
         {
           "name": "WHEELER, Lawrence John",
           "role": "director",
-          "appointed": "2024-09-01"
+          "appointed": "2024-09-01",
+          "resigned": "2026-06-22"
         }
       ],
-      "resigned_officers": [],
       "company_status": "active",
       "company_type": "ltd"
     }
