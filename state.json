@@ -2054,11 +2054,6 @@
           "appointed": "2023-04-01"
         },
         {
-          "name": "BOOTH, Jonathan",
-          "role": "llp-member",
-          "appointed": "2023-04-01"
-        },
-        {
           "name": "BRATT, Phillip",
           "role": "llp-member",
           "appointed": "2023-06-05"
@@ -2502,6 +2497,11 @@
           "name": "MCBRIEN, Megan",
           "role": "llp-member",
           "appointed": "2024-01-01"
+        },
+        {
+          "name": "MCCABE, James Christopher",
+          "role": "llp-member",
+          "appointed": "2019-09-16"
         }
       ],
       "resigned_officers": [],
@@ -4858,9 +4858,19 @@
     "ch_snapshot": {
       "active_officers": [
         {
+          "name": "AIIC HOLDINGS LIMITED",
+          "role": "corporate-director",
+          "appointed": "2026-07-09"
+        },
+        {
           "name": "BANFIELD, Simon Jeremy",
           "role": "director",
           "appointed": "2015-09-09"
+        },
+        {
+          "name": "BELLCHAMBER, Camille",
+          "role": "director",
+          "appointed": "2026-07-09"
         },
         {
           "name": "COPSEY, Louisa Jane",
@@ -4871,11 +4881,6 @@
           "name": "HOE, Matthew David",
           "role": "director",
           "appointed": "2015-09-09"
-        },
-        {
-          "name": "JAGGARD, Adrian John George",
-          "role": "director",
-          "appointed": "2015-07-06"
         },
         {
           "name": "JAGGARD, Antony",
@@ -4907,6 +4912,12 @@
           "role": "director",
           "appointed": "2018-12-07",
           "resigned": "2024-04-08"
+        },
+        {
+          "name": "JAGGARD, Adrian John George",
+          "role": "director",
+          "appointed": "2015-07-06",
+          "resigned": "2026-07-09"
         },
         {
           "name": "MCMILLAN, John Gordon Sandford",
