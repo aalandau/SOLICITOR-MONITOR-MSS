@@ -5204,11 +5204,6 @@
           "appointed": "2023-02-01"
         },
         {
-          "name": "HORNE, Emma Ashley",
-          "role": "llp-member",
-          "appointed": "2022-04-01"
-        },
-        {
           "name": "JONES, Amy Carole",
           "role": "llp-member",
           "appointed": "2023-06-01"
@@ -5572,6 +5567,12 @@
           "role": "llp-designated-member",
           "appointed": "2004-05-25",
           "resigned": "2023-05-31"
+        },
+        {
+          "name": "WILSON, Graham Alexander",
+          "role": "llp-designated-member",
+          "appointed": "2004-05-25",
+          "resigned": "2022-05-31"
         }
       ],
       "company_status": "active",
