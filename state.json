@@ -5144,11 +5144,6 @@
           "appointed": "2022-07-01"
         },
         {
-          "name": "FELLOWS, Deborah",
-          "role": "llp-member",
-          "appointed": "2016-06-01"
-        },
-        {
           "name": "FRANCIS, Robin James Douglas",
           "role": "llp-member",
           "appointed": "2019-01-01"
@@ -5334,11 +5329,6 @@
           "appointed": "2007-04-02"
         },
         {
-          "name": "MILNE, David John",
-          "role": "llp-designated-member",
-          "appointed": "2022-02-01"
-        },
-        {
           "name": "MILNE, Scott Charles",
           "role": "llp-designated-member",
           "appointed": "2004-05-25"
@@ -5430,6 +5420,12 @@
         }
       ],
       "resigned_officers": [
+        {
+          "name": "ALLAN, Margaret Jean",
+          "role": "llp-member",
+          "appointed": "2014-09-01",
+          "resigned": "2022-05-31"
+        },
         {
           "name": "BARCLAY, Nicholas",
           "role": "llp-designated-member",
@@ -5531,6 +5527,12 @@
           "role": "llp-designated-member",
           "appointed": "2014-11-01",
           "resigned": "2016-09-30"
+        },
+        {
+          "name": "MILNE, David John",
+          "role": "llp-designated-member",
+          "appointed": "2022-02-01",
+          "resigned": "2026-05-31"
         },
         {
           "name": "NICOL, Craig Orr",
