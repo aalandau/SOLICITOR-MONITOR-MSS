@@ -6167,11 +6167,6 @@
           "appointed": "2013-02-25"
         },
         {
-          "name": "MALTBY-SINKLER, Ruth Gabrielle Wainwright",
-          "role": "llp-member",
-          "appointed": "2025-04-01"
-        },
-        {
           "name": "MARK BENEDICT ROBINSON LIMITED",
           "role": "corporate-llp-member",
           "appointed": "2013-02-25"
@@ -6396,6 +6391,12 @@
           "role": "llp-member",
           "appointed": "2021-06-01",
           "resigned": "2023-10-03"
+        },
+        {
+          "name": "HARBOURNE, Andrew",
+          "role": "llp-member",
+          "appointed": "2019-11-25",
+          "resigned": "2022-10-10"
         },
         {
           "name": "MCKAY, Craig John",
