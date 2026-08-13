@@ -2134,11 +2134,6 @@
           "appointed": "2020-02-01"
         },
         {
-          "name": "DAWSON, Greg",
-          "role": "llp-member",
-          "appointed": "2021-03-08"
-        },
-        {
           "name": "DE LA PORTE, Paul",
           "role": "llp-member",
           "appointed": "2022-08-22"
@@ -2502,6 +2497,11 @@
           "name": "MCCABE, James Christopher",
           "role": "llp-member",
           "appointed": "2019-09-16"
+        },
+        {
+          "name": "MCCLUSKIE, Peter",
+          "role": "llp-member",
+          "appointed": "2020-09-24"
         }
       ],
       "resigned_officers": [],
