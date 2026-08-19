@@ -2049,11 +2049,6 @@
           "appointed": "2020-10-01"
         },
         {
-          "name": "BLAIR, Rachel",
-          "role": "llp-member",
-          "appointed": "2023-04-01"
-        },
-        {
           "name": "BRATT, Phillip",
           "role": "llp-member",
           "appointed": "2023-06-05"
@@ -2087,11 +2082,6 @@
           "name": "CLEMSON, Stuart",
           "role": "llp-member",
           "appointed": "2022-08-30"
-        },
-        {
-          "name": "CLOUGH, Louise Ann",
-          "role": "llp-member",
-          "appointed": "2011-11-01"
         },
         {
           "name": "COBB, Connie",
@@ -2502,6 +2492,16 @@
           "name": "MCCLUSKIE, Peter",
           "role": "llp-member",
           "appointed": "2020-09-24"
+        },
+        {
+          "name": "MCCULLAGH, Edel",
+          "role": "llp-member",
+          "appointed": "2025-10-01"
+        },
+        {
+          "name": "MCCULLOUGH, Michelle Karen",
+          "role": "llp-member",
+          "appointed": "2025-08-04"
         }
       ],
       "resigned_officers": [],
