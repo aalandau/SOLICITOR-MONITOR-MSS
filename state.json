@@ -5207,11 +5207,6 @@
           "appointed": "2016-06-02"
         },
         {
-          "name": "HANIFORD, Paul Sydney",
-          "role": "llp-member",
-          "appointed": "2023-02-01"
-        },
-        {
           "name": "JONES, Amy Carole",
           "role": "llp-member",
           "appointed": "2023-06-01"
@@ -5438,6 +5433,12 @@
         }
       ],
       "resigned_officers": [
+        {
+          "name": "ALLAN, Margaret Jean",
+          "role": "llp-member",
+          "appointed": "2014-09-01",
+          "resigned": "2022-05-31"
+        },
         {
           "name": "BARCLAY, Nicholas",
           "role": "llp-designated-member",
