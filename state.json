@@ -2582,11 +2582,6 @@
     "ch_snapshot": {
       "active_officers": [
         {
-          "name": "ARMSTRONG, David James",
-          "role": "llp-designated-member",
-          "appointed": "2021-03-17"
-        },
-        {
           "name": "BAIN, Daniel Clark",
           "role": "llp-designated-member",
           "appointed": "2026-06-22"
@@ -2873,6 +2868,12 @@
           "role": "llp-designated-member",
           "appointed": "2023-05-26",
           "resigned": "2026-03-31"
+        },
+        {
+          "name": "ARMSTRONG, David James",
+          "role": "llp-designated-member",
+          "appointed": "2021-03-17",
+          "resigned": "2026-07-31"
         },
         {
           "name": "CUMMINGS, Alasdair William Donald",
